@@ -1,0 +1,24 @@
+[ 2018-07-27T02:46:26+08:00 ] 80.82.77.33 /robots.txt
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000008s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000043s ]
+ERR: 无法加载模块:Robots
+
+[ 2018-07-27T02:46:27+08:00 ] 80.82.77.33 /sitemap.xml
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000006s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000051s ]
+ERR: 无法加载模块:Sitemap
+
+[ 2018-07-27T02:46:31+08:00 ] 80.82.77.33 /favicon.ico
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000007s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000030s ]
+ERR: 无法加载模块:Favicon
+
+[ 2018-07-27T12:01:35+08:00 ] 112.255.146.63 /otn/login/checkUser
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000007s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000029s ]
+ERR: 无法加载模块:Otn
+

@@ -1,0 +1,1925 @@
+[ 2018-07-23T00:05:56+08:00 ] 123.120.33.222 /Api/KolManager/getKolInfo?kol_id=1
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000009s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000040s ]
+
+[ 2018-07-23T00:05:56+08:00 ] 123.120.33.222 /Api/KolManager/getKolProductList?kol_id=1
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000005s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000026s ]
+
+[ 2018-07-23T00:05:56+08:00 ] 123.120.33.222 /Api/Login/getsessionkey
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000006s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000029s ]
+
+[ 2018-07-23T00:05:56+08:00 ] 123.120.33.222 /Api/Login/authlogin
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000006s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000032s ]
+
+[ 2018-07-23T00:05:59+08:00 ] 123.120.33.222 /Api/KolManager/getKolInfo?kol_id=1
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000006s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000025s ]
+
+[ 2018-07-23T00:05:59+08:00 ] 123.120.33.222 /Api/KolManager/getKolProductList?kol_id=1
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000004s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000024s ]
+
+[ 2018-07-23T00:05:59+08:00 ] 123.120.33.222 /Api/Login/getsessionkey
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000008s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000040s ]
+
+[ 2018-07-23T00:05:59+08:00 ] 123.120.33.222 /Api/Login/authlogin
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000008s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000039s ]
+
+[ 2018-07-23T01:09:32+08:00 ] 36.98.214.128 /Api/Index/index
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000006s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000026s ]
+
+[ 2018-07-23T01:09:32+08:00 ] 36.98.214.128 /Api/Shopping/index
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000007s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000028s ]
+
+[ 2018-07-23T01:09:32+08:00 ] 36.98.214.128 /Api/Login/getsessionkey
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000009s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000041s ]
+
+[ 2018-07-23T01:09:33+08:00 ] 36.98.214.128 /Api/Login/authlogin
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000006s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000027s ]
+
+[ 2018-07-23T08:54:07+08:00 ] 117.136.41.33 /Api/Index/index
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000009s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000046s ]
+
+[ 2018-07-23T08:54:07+08:00 ] 117.136.41.33 /Api/Shopping/index
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000009s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000042s ]
+
+[ 2018-07-23T08:54:08+08:00 ] 117.136.41.33 /Api/Login/getsessionkey
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000006s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000030s ]
+
+[ 2018-07-23T08:54:08+08:00 ] 117.136.41.33 /Api/Login/authlogin
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000006s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000031s ]
+
+[ 2018-07-23T08:54:11+08:00 ] 117.136.41.33 /Api/Index/getlist
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000010s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000044s ]
+
+[ 2018-07-23T08:54:14+08:00 ] 117.136.41.33 /Api/Index/getlist
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000006s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000030s ]
+
+[ 2018-07-23T08:54:20+08:00 ] 117.136.41.33 /Api/Index/getlist
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000008s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000036s ]
+
+[ 2018-07-23T10:19:44+08:00 ] 123.122.17.4 /Api/Index/index
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000008s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000038s ]
+
+[ 2018-07-23T10:19:45+08:00 ] 123.122.17.4 /Api/Shopping/index
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000005s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000029s ]
+
+[ 2018-07-23T10:19:45+08:00 ] 123.122.17.4 /Api/Login/getsessionkey
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000005s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000025s ]
+
+[ 2018-07-23T10:19:47+08:00 ] 123.122.17.4 /Api/Login/authlogin
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000009s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000041s ]
+
+[ 2018-07-23T10:20:35+08:00 ] 123.122.17.4 /Api/Shopping/index
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000009s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000040s ]
+
+[ 2018-07-23T10:20:37+08:00 ] 123.122.17.4 /Api/Index/getlist
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000006s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000027s ]
+
+[ 2018-07-23T10:20:42+08:00 ] 123.122.17.4 /Api/Index/getlist
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000009s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000039s ]
+
+[ 2018-07-23T10:20:44+08:00 ] 123.122.17.4 /Api/Index/getlist
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000006s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000032s ]
+
+[ 2018-07-23T10:20:46+08:00 ] 123.122.17.4 /Api/Index/getlist
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000006s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000028s ]
+
+[ 2018-07-23T10:20:52+08:00 ] 123.122.17.4 /Api/Product/index
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000005s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000028s ]
+
+[ 2018-07-23T10:21:30+08:00 ] 123.122.17.4 /Api/Shopping/index
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000009s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000041s ]
+
+[ 2018-07-23T10:45:36+08:00 ] 123.122.17.4 /Api/Index/index
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000009s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000043s ]
+
+[ 2018-07-23T10:45:37+08:00 ] 123.122.17.4 /Api/Login/getsessionkey
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000006s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000031s ]
+
+[ 2018-07-23T10:45:37+08:00 ] 123.122.17.4 /Api/Login/authlogin
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000007s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000034s ]
+
+[ 2018-07-23T10:45:38+08:00 ] 123.122.17.4 /Api/User/getorder
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000006s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000027s ]
+
+[ 2018-07-23T10:45:40+08:00 ] 123.122.17.4 /Api/User/getorder
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000008s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000041s ]
+
+[ 2018-07-23T10:45:42+08:00 ] 123.122.17.4 /Api/Product/index
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000008s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000034s ]
+
+[ 2018-07-23T11:06:17+08:00 ] 123.122.17.4 /Api/KolManager/getKolInfo?kol_id=1
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000006s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000028s ]
+
+[ 2018-07-23T11:06:17+08:00 ] 123.122.17.4 /Api/KolManager/getKolProductList?kol_id=1
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000005s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000025s ]
+
+[ 2018-07-23T11:07:47+08:00 ] 123.122.17.4 /Api/KolManager/getKolProductList?kol_id=1
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000006s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000030s ]
+
+[ 2018-07-23T11:07:47+08:00 ] 123.122.17.4 /Api/KolManager/getKolInfo?kol_id=1
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000008s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000035s ]
+
+[ 2018-07-23T11:07:48+08:00 ] 123.122.17.4 /Api/Login/getsessionkey
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000006s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000028s ]
+
+[ 2018-07-23T11:07:48+08:00 ] 123.122.17.4 /Api/Login/authlogin
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000006s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000045s ]
+
+[ 2018-07-23T11:08:04+08:00 ] 123.122.17.4 /Api/KolManager/getKolProductList?kol_id=1
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000006s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000029s ]
+
+[ 2018-07-23T11:08:04+08:00 ] 123.122.17.4 /Api/KolManager/getKolInfo?kol_id=1
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000007s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000035s ]
+
+[ 2018-07-23T11:08:06+08:00 ] 123.122.17.4 /Api/KolManager/getKolInfo?kol_id=1
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000009s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000039s ]
+
+[ 2018-07-23T11:08:06+08:00 ] 123.122.17.4 /Api/KolManager/getKolProductList?kol_id=1
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000005s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000025s ]
+
+[ 2018-07-23T11:08:06+08:00 ] 123.122.17.4 /Api/Login/getsessionkey
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000009s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000046s ]
+
+[ 2018-07-23T11:08:07+08:00 ] 123.122.17.4 /Api/Login/authlogin
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000006s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000026s ]
+
+[ 2018-07-23T11:08:19+08:00 ] 123.122.17.4 /Api/KolManager/getKolInfo?kol_id=1
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000005s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000025s ]
+
+[ 2018-07-23T11:08:19+08:00 ] 123.122.17.4 /Api/KolManager/getKolProductList?kol_id=1
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000005s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000029s ]
+
+[ 2018-07-23T11:08:21+08:00 ] 123.122.17.4 /Api/Login/getsessionkey
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000005s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000028s ]
+
+[ 2018-07-23T11:08:25+08:00 ] 123.122.17.4 /Api/Login/authlogin
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000005s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000025s ]
+
+[ 2018-07-23T11:08:35+08:00 ] 123.122.17.4 /Api/KolManager/getKolInfo?kol_id=1
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000005s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000027s ]
+
+[ 2018-07-23T11:08:35+08:00 ] 123.122.17.4 /Api/KolManager/getKolProductList?kol_id=1
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000005s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000025s ]
+
+[ 2018-07-23T11:08:38+08:00 ] 123.122.17.4 /Api/Login/getsessionkey
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000009s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000040s ]
+
+[ 2018-07-23T11:08:38+08:00 ] 123.122.17.4 /Api/Login/authlogin
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000006s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000028s ]
+
+[ 2018-07-23T11:09:01+08:00 ] 123.122.17.4 /Api/KolManager/getKolInfo?kol_id=1
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000007s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000073s ]
+
+[ 2018-07-23T11:09:01+08:00 ] 123.122.17.4 /Api/KolManager/getKolProductList?kol_id=1
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000008s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000040s ]
+
+[ 2018-07-23T11:09:02+08:00 ] 123.122.17.4 /Api/Login/getsessionkey
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000006s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000027s ]
+
+[ 2018-07-23T11:09:04+08:00 ] 123.122.17.4 /Api/Login/authlogin
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000005s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000029s ]
+
+[ 2018-07-23T11:12:06+08:00 ] 123.122.17.4 /Api/KolManager/getKolInfo?kol_id=1
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000006s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000029s ]
+
+[ 2018-07-23T11:12:06+08:00 ] 123.122.17.4 /Api/KolManager/getKolProductList?kol_id=1
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000006s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000027s ]
+
+[ 2018-07-23T11:12:07+08:00 ] 123.122.17.4 /Api/Login/getsessionkey
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000009s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000040s ]
+
+[ 2018-07-23T11:12:07+08:00 ] 123.122.17.4 /Api/Login/authlogin
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000010s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000052s ]
+
+[ 2018-07-23T11:12:52+08:00 ] 123.122.17.4 /Api/Index/index
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000009s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000045s ]
+
+[ 2018-07-23T11:12:53+08:00 ] 123.122.17.4 /Api/Login/getsessionkey
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000007s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000031s ]
+
+[ 2018-07-23T11:12:54+08:00 ] 123.122.17.4 /Api/Login/authlogin
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000006s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000042s ]
+
+[ 2018-07-23T11:12:55+08:00 ] 123.122.17.4 /Api/Product/index
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000006s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000032s ]
+
+[ 2018-07-23T11:14:01+08:00 ] 123.122.17.4 /Api/KolManager/getKolInfo?kol_id=1
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000009s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000040s ]
+
+[ 2018-07-23T11:14:01+08:00 ] 123.122.17.4 /Api/KolManager/getKolProductList?kol_id=1
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000008s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000038s ]
+
+[ 2018-07-23T11:14:02+08:00 ] 123.122.17.4 /Api/Login/getsessionkey
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000010s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000045s ]
+
+[ 2018-07-23T11:14:03+08:00 ] 123.122.17.4 /Api/Login/authlogin
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000009s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000038s ]
+
+[ 2018-07-23T11:14:34+08:00 ] 123.122.17.4 /Api/KolManager/getKolInfo?kol_id=1
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000006s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000027s ]
+
+[ 2018-07-23T11:14:34+08:00 ] 123.122.17.4 /Api/KolManager/getKolProductList?kol_id=1
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000005s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000026s ]
+
+[ 2018-07-23T11:14:35+08:00 ] 123.122.17.4 /Api/Login/getsessionkey
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000006s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000030s ]
+
+[ 2018-07-23T11:14:36+08:00 ] 123.122.17.4 /Api/Login/authlogin
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000009s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000036s ]
+
+[ 2018-07-23T11:15:26+08:00 ] 123.122.17.4 /Api/KolManager/getKolInfo?kol_id=1
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000005s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000023s ]
+
+[ 2018-07-23T11:15:26+08:00 ] 123.122.17.4 /Api/KolManager/getKolProductList?kol_id=1
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000017s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000035s ]
+
+[ 2018-07-23T11:15:29+08:00 ] 123.122.17.4 /Api/Login/getsessionkey
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000008s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000035s ]
+
+[ 2018-07-23T11:15:29+08:00 ] 123.122.17.4 /Api/Login/authlogin
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000006s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000029s ]
+
+[ 2018-07-23T11:15:46+08:00 ] 123.122.17.4 /Api/KolManager/getKolInfo?kol_id=1
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000005s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000022s ]
+
+[ 2018-07-23T11:15:46+08:00 ] 123.122.17.4 /Api/KolManager/getKolProductList?kol_id=1
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000008s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000034s ]
+
+[ 2018-07-23T11:15:47+08:00 ] 123.122.17.4 /Api/Login/getsessionkey
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000007s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000032s ]
+
+[ 2018-07-23T11:15:47+08:00 ] 123.122.17.4 /Api/Login/authlogin
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000006s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000029s ]
+
+[ 2018-07-23T12:09:00+08:00 ] 60.209.189.215 /Api/Index/index
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000009s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000041s ]
+
+[ 2018-07-23T12:09:00+08:00 ] 60.209.189.215 /Api/Shopping/index
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000007s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000027s ]
+
+[ 2018-07-23T12:09:00+08:00 ] 60.209.189.215 /Api/Login/getsessionkey
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000005s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000027s ]
+
+[ 2018-07-23T12:09:00+08:00 ] 60.209.189.215 /Api/Login/authlogin
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000006s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000028s ]
+
+[ 2018-07-23T12:09:02+08:00 ] 60.209.189.215 /Api/Product/index
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000009s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000040s ]
+
+[ 2018-07-23T12:09:39+08:00 ] 60.209.189.215 /Api/Product/index
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000006s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000030s ]
+
+[ 2018-07-23T12:11:51+08:00 ] 60.209.189.215 /Api/Product/index
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000007s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000030s ]
+
+[ 2018-07-23T13:42:31+08:00 ] 123.122.17.4 /Api/Login/getsessionkey
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000010s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000038s ]
+
+[ 2018-07-23T13:42:31+08:00 ] 123.122.17.4 /Api/Login/getsessionkey
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000005s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000027s ]
+
+[ 2018-07-23T13:42:32+08:00 ] 123.122.17.4 /Api/Login/authlogin
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000013s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000036s ]
+
+[ 2018-07-23T13:42:32+08:00 ] 123.122.17.4 /Api/KolManager/getKolInfo?kol_id=1
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000008s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000031s ]
+
+[ 2018-07-23T13:42:32+08:00 ] 123.122.17.4 /Api/KolManager/getKolProductList?kol_id=1
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000007s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000029s ]
+
+[ 2018-07-23T13:46:56+08:00 ] 123.122.17.4 /Api/Index/index
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000010s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000042s ]
+
+[ 2018-07-23T13:46:56+08:00 ] 123.122.17.4 /Api/Login/getsessionkey
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000008s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000036s ]
+
+[ 2018-07-23T13:46:56+08:00 ] 123.122.17.4 /Api/Login/authlogin
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000010s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000046s ]
+
+[ 2018-07-23T13:47:09+08:00 ] 123.122.17.4 /Api/KolManager/getKolInfo?kol_id=1
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000007s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000031s ]
+
+[ 2018-07-23T13:47:09+08:00 ] 123.122.17.4 /Api/KolManager/getKolProductList?kol_id=1
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000008s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000034s ]
+
+[ 2018-07-23T13:47:10+08:00 ] 123.122.17.4 /Api/Login/getsessionkey
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000009s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000056s ]
+
+[ 2018-07-23T13:47:13+08:00 ] 123.122.17.4 /Api/Login/authlogin
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000007s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000033s ]
+
+[ 2018-07-23T13:48:25+08:00 ] 123.122.17.4 /Api/KolManager/getKolInfo?kol_id=1
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000007s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000031s ]
+
+[ 2018-07-23T13:48:25+08:00 ] 123.122.17.4 /Api/KolManager/getKolProductList?kol_id=1
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000005s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000022s ]
+
+[ 2018-07-23T13:48:25+08:00 ] 123.122.17.4 /Api/Login/getsessionkey
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000009s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000041s ]
+
+[ 2018-07-23T13:48:26+08:00 ] 123.122.17.4 /Api/Login/authlogin
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000008s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000042s ]
+
+[ 2018-07-23T13:48:56+08:00 ] 123.122.17.4 /Api/KolManager/getKolProductList?kol_id=1
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000007s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000031s ]
+
+[ 2018-07-23T13:48:56+08:00 ] 123.122.17.4 /Api/KolManager/getKolInfo?kol_id=1
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000005s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000024s ]
+
+[ 2018-07-23T13:48:57+08:00 ] 123.122.17.4 /Api/KolManager/getKolProductList?kol_id=1
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000007s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000033s ]
+
+[ 2018-07-23T13:48:57+08:00 ] 123.122.17.4 /Api/KolManager/getKolInfo?kol_id=1
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000009s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000038s ]
+
+[ 2018-07-23T13:48:58+08:00 ] 123.122.17.4 /Api/Login/getsessionkey
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000007s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000030s ]
+
+[ 2018-07-23T13:48:58+08:00 ] 123.122.17.4 /Api/Login/authlogin
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000007s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000032s ]
+
+[ 2018-07-23T13:50:02+08:00 ] 123.122.17.4 /Api/KolManager/getKolInfo?kol_id=1
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000007s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000030s ]
+
+[ 2018-07-23T13:50:02+08:00 ] 123.122.17.4 /Api/KolManager/getKolProductList?kol_id=1
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000007s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000039s ]
+
+[ 2018-07-23T13:50:06+08:00 ] 123.122.17.4 /Api/Login/getsessionkey
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000010s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000046s ]
+
+[ 2018-07-23T13:50:06+08:00 ] 123.122.17.4 /Api/Login/authlogin
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000007s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000031s ]
+
+[ 2018-07-23T13:50:51+08:00 ] 123.122.17.4 /Api/KolManager/getKolInfo?kol_id=1
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000010s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000038s ]
+
+[ 2018-07-23T13:50:51+08:00 ] 123.122.17.4 /Api/KolManager/getKolProductList?kol_id=1
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000006s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000030s ]
+
+[ 2018-07-23T13:50:54+08:00 ] 123.122.17.4 /Api/Login/getsessionkey
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000009s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000043s ]
+
+[ 2018-07-23T13:50:56+08:00 ] 123.122.17.4 /Api/Login/authlogin
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000008s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000033s ]
+
+[ 2018-07-23T13:51:23+08:00 ] 123.122.17.4 /Api/KolManager/getKolInfo?kol_id=1
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000006s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000028s ]
+
+[ 2018-07-23T13:51:23+08:00 ] 123.122.17.4 /Api/KolManager/getKolProductList?kol_id=1
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000005s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000024s ]
+
+[ 2018-07-23T13:51:26+08:00 ] 123.122.17.4 /Api/KolManager/getKolInfo?kol_id=1
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000005s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000026s ]
+
+[ 2018-07-23T13:51:26+08:00 ] 123.122.17.4 /Api/KolManager/getKolProductList?kol_id=1
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000024s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000056s ]
+
+[ 2018-07-23T13:51:27+08:00 ] 123.122.17.4 /Api/Login/getsessionkey
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000006s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000029s ]
+
+[ 2018-07-23T13:51:27+08:00 ] 123.122.17.4 /Api/Login/authlogin
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000009s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000041s ]
+
+[ 2018-07-23T13:54:03+08:00 ] 123.122.17.4 /Api/KolManager/getKolInfo?kol_id=1
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000009s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000039s ]
+
+[ 2018-07-23T13:54:03+08:00 ] 123.122.17.4 /Api/KolManager/getKolProductList?kol_id=1
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000008s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000036s ]
+
+[ 2018-07-23T13:54:05+08:00 ] 123.122.17.4 /Api/Login/getsessionkey
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000007s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000031s ]
+
+[ 2018-07-23T13:54:06+08:00 ] 123.122.17.4 /Api/Login/authlogin
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000007s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000033s ]
+
+[ 2018-07-23T13:54:26+08:00 ] 123.122.17.4 /Api/Product/index
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000007s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000030s ]
+
+[ 2018-07-23T13:57:05+08:00 ] 123.122.17.4 /Api/KolManager/getKolInfo?kol_id=1
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000006s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000030s ]
+
+[ 2018-07-23T13:57:05+08:00 ] 123.122.17.4 /Api/KolManager/getKolProductList?kol_id=1
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000005s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000024s ]
+
+[ 2018-07-23T13:57:05+08:00 ] 123.122.17.4 /Api/Login/getsessionkey
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000007s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000032s ]
+
+[ 2018-07-23T13:57:06+08:00 ] 123.122.17.4 /Api/Login/authlogin
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000009s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000039s ]
+
+[ 2018-07-23T13:57:28+08:00 ] 123.122.17.4 /Api/KolManager/getKolProductList?kol_id=1
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000006s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000036s ]
+
+[ 2018-07-23T13:57:28+08:00 ] 123.122.17.4 /Api/KolManager/getKolInfo?kol_id=1
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000007s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000033s ]
+
+[ 2018-07-23T13:57:30+08:00 ] 123.122.17.4 /Api/Login/getsessionkey
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000008s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000037s ]
+
+[ 2018-07-23T13:57:31+08:00 ] 123.122.17.4 /Api/Login/authlogin
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000006s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000029s ]
+
+[ 2018-07-23T13:57:43+08:00 ] 123.122.17.4 /Api/KolManager/getKolInfo?kol_id=1
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000005s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000026s ]
+
+[ 2018-07-23T13:57:43+08:00 ] 123.122.17.4 /Api/KolManager/getKolProductList?kol_id=1
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000008s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000035s ]
+
+[ 2018-07-23T13:57:51+08:00 ] 123.122.17.4 /Api/Login/getsessionkey
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000010s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000044s ]
+
+[ 2018-07-23T13:57:51+08:00 ] 123.122.17.4 /Api/Login/authlogin
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000007s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000031s ]
+
+[ 2018-07-23T13:58:27+08:00 ] 123.122.17.4 /Api/KolManager/getKolInfo?kol_id=1
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000008s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000037s ]
+
+[ 2018-07-23T13:58:27+08:00 ] 123.122.17.4 /Api/KolManager/getKolProductList?kol_id=1
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000006s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000030s ]
+
+[ 2018-07-23T13:58:31+08:00 ] 123.122.17.4 /Api/Login/getsessionkey
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000006s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000029s ]
+
+[ 2018-07-23T13:58:33+08:00 ] 123.122.17.4 /Api/Login/authlogin
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000010s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000042s ]
+
+[ 2018-07-23T13:58:47+08:00 ] 123.122.17.4 /Api/KolManager/getKolInfo?kol_id=1
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000005s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000025s ]
+
+[ 2018-07-23T13:58:47+08:00 ] 123.122.17.4 /Api/KolManager/getKolProductList?kol_id=1
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000006s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000030s ]
+
+[ 2018-07-23T13:58:52+08:00 ] 123.122.17.4 /Api/Login/getsessionkey
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000007s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000029s ]
+
+[ 2018-07-23T13:58:54+08:00 ] 123.122.17.4 /Api/Login/authlogin
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000006s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000029s ]
+
+[ 2018-07-23T14:09:22+08:00 ] 123.122.17.4 /Api/Product/index
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000027s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000062s ]
+
+[ 2018-07-23T14:09:22+08:00 ] 123.122.17.4 /Api/Login/getsessionkey
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000006s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000023s ]
+
+[ 2018-07-23T14:09:23+08:00 ] 123.122.17.4 /Api/Login/authlogin
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000007s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000029s ]
+
+[ 2018-07-23T14:09:51+08:00 ] 123.122.17.4 /Api/KolManager/getKolInfo?kol_id=1
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000006s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000027s ]
+
+[ 2018-07-23T14:09:51+08:00 ] 123.122.17.4 /Api/KolManager/getKolProductList?kol_id=1
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000005s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000025s ]
+
+[ 2018-07-23T14:09:54+08:00 ] 123.122.17.4 /Api/Login/getsessionkey
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000008s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000038s ]
+
+[ 2018-07-23T14:09:55+08:00 ] 123.122.17.4 /Api/Login/authlogin
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000009s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000043s ]
+
+[ 2018-07-23T14:10:07+08:00 ] 123.122.17.4 /Api/KolManager/getKolProductList?kol_id=1
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000007s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000031s ]
+
+[ 2018-07-23T14:10:07+08:00 ] 123.122.17.4 /Api/KolManager/getKolInfo?kol_id=1
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000007s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000034s ]
+
+[ 2018-07-23T14:10:09+08:00 ] 123.122.17.4 /Api/Login/getsessionkey
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000008s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000039s ]
+
+[ 2018-07-23T14:10:11+08:00 ] 123.122.17.4 /Api/Login/authlogin
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000006s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000030s ]
+
+[ 2018-07-23T14:10:38+08:00 ] 123.122.17.4 /Api/KolManager/getKolInfo?kol_id=1
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000006s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000030s ]
+
+[ 2018-07-23T14:10:38+08:00 ] 123.122.17.4 /Api/KolManager/getKolProductList?kol_id=1
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000005s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000023s ]
+
+[ 2018-07-23T14:10:40+08:00 ] 123.122.17.4 /Api/KolManager/getKolInfo?kol_id=1
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000005s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000027s ]
+
+[ 2018-07-23T14:10:40+08:00 ] 123.122.17.4 /Api/KolManager/getKolProductList?kol_id=1
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000005s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000023s ]
+
+[ 2018-07-23T14:10:40+08:00 ] 123.122.17.4 /Api/Login/getsessionkey
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000006s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000028s ]
+
+[ 2018-07-23T14:10:41+08:00 ] 123.122.17.4 /Api/Login/authlogin
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000007s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000033s ]
+
+[ 2018-07-23T14:11:13+08:00 ] 123.122.17.4 /Api/KolManager/getKolInfo?kol_id=1
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000006s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000026s ]
+
+[ 2018-07-23T14:11:13+08:00 ] 123.122.17.4 /Api/KolManager/getKolProductList?kol_id=1
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000005s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000026s ]
+
+[ 2018-07-23T14:11:14+08:00 ] 123.122.17.4 /Api/Login/getsessionkey
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000007s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000031s ]
+
+[ 2018-07-23T14:11:15+08:00 ] 123.122.17.4 /Api/Login/authlogin
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000008s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000052s ]
+
+[ 2018-07-23T14:11:42+08:00 ] 123.122.17.4 /Api/KolManager/getKolProductList?kol_id=1
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000007s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000028s ]
+
+[ 2018-07-23T14:11:42+08:00 ] 123.122.17.4 /Api/KolManager/getKolInfo?kol_id=1
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000007s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000030s ]
+
+[ 2018-07-23T14:11:44+08:00 ] 123.122.17.4 /Api/KolManager/getKolInfo?kol_id=1
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000006s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000029s ]
+
+[ 2018-07-23T14:11:44+08:00 ] 123.122.17.4 /Api/KolManager/getKolProductList?kol_id=1
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000007s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000031s ]
+
+[ 2018-07-23T14:11:44+08:00 ] 123.122.17.4 /Api/Login/getsessionkey
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000007s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000049s ]
+
+[ 2018-07-23T14:11:45+08:00 ] 123.122.17.4 /Api/Login/authlogin
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000006s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000029s ]
+
+[ 2018-07-23T14:11:57+08:00 ] 123.122.17.4 /Api/KolManager/getKolInfo?kol_id=1
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000009s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000042s ]
+
+[ 2018-07-23T14:11:57+08:00 ] 123.122.17.4 /Api/KolManager/getKolProductList?kol_id=1
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000008s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000036s ]
+
+[ 2018-07-23T14:12:00+08:00 ] 123.122.17.4 /Api/Login/getsessionkey
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000007s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000030s ]
+
+[ 2018-07-23T14:12:00+08:00 ] 123.122.17.4 /Api/Login/authlogin
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000006s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000028s ]
+
+[ 2018-07-23T14:12:13+08:00 ] 123.122.17.4 /Api/KolManager/getKolProductList?kol_id=1
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000012s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000049s ]
+
+[ 2018-07-23T14:12:13+08:00 ] 123.122.17.4 /Api/KolManager/getKolInfo?kol_id=1
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000006s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000030s ]
+
+[ 2018-07-23T14:12:18+08:00 ] 123.122.17.4 /Api/Login/getsessionkey
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000006s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000028s ]
+
+[ 2018-07-23T14:12:19+08:00 ] 123.122.17.4 /Api/Login/authlogin
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000006s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000028s ]
+
+[ 2018-07-23T14:12:19+08:00 ] 123.122.17.4 /Api/Product/index
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000006s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000028s ]
+
+[ 2018-07-23T14:12:23+08:00 ] 123.122.17.4 /Api/Shopping/add
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000009s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000042s ]
+
+[ 2018-07-23T14:12:32+08:00 ] 123.122.17.4 /Api/KolManager/getKolProductList?kol_id=1
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000007s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000030s ]
+
+[ 2018-07-23T14:12:32+08:00 ] 123.122.17.4 /Api/KolManager/getKolInfo?kol_id=1
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000008s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000039s ]
+
+[ 2018-07-23T14:12:35+08:00 ] 123.122.17.4 /Api/Login/getsessionkey
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000006s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000028s ]
+
+[ 2018-07-23T14:12:38+08:00 ] 123.122.17.4 /Api/Product/index
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000007s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000039s ]
+
+[ 2018-07-23T14:12:39+08:00 ] 123.122.17.4 /Api/Login/authlogin
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000007s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000032s ]
+
+[ 2018-07-23T14:14:38+08:00 ] 123.122.17.4 /Api/KolManager/getKolInfo?kol_id=1
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000009s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000041s ]
+
+[ 2018-07-23T14:14:38+08:00 ] 123.122.17.4 /Api/KolManager/getKolProductList?kol_id=1
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000006s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000026s ]
+
+[ 2018-07-23T14:14:41+08:00 ] 123.122.17.4 /Api/Login/getsessionkey
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000010s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000044s ]
+
+[ 2018-07-23T14:14:42+08:00 ] 123.122.17.4 /Api/Login/authlogin
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000007s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000028s ]
+
+[ 2018-07-23T14:17:22+08:00 ] 123.122.17.4 /Api/KolManager/getKolInfo?kol_id=1
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000006s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000030s ]
+
+[ 2018-07-23T14:17:22+08:00 ] 123.122.17.4 /Api/KolManager/getKolProductList?kol_id=1
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000008s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000034s ]
+
+[ 2018-07-23T14:17:22+08:00 ] 123.122.17.4 /Api/Login/getsessionkey
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000006s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000029s ]
+
+[ 2018-07-23T14:17:23+08:00 ] 123.122.17.4 /Api/Login/authlogin
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000007s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000030s ]
+
+[ 2018-07-23T14:23:49+08:00 ] 123.122.17.4 /Api/KolManager/getKolInfo?kol_id=1
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000009s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000041s ]
+
+[ 2018-07-23T14:23:50+08:00 ] 123.122.17.4 /Api/Product/index
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000007s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000032s ]
+
+[ 2018-07-23T14:23:50+08:00 ] 123.122.17.4 /Api/KolManager/getKolProductList?kol_id=1
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000015s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000043s ]
+
+[ 2018-07-23T14:23:50+08:00 ] 123.122.17.4 /Api/Login/getsessionkey
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000009s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000037s ]
+
+[ 2018-07-23T14:23:50+08:00 ] 123.122.17.4 /Api/Login/authlogin
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000010s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000043s ]
+
+[ 2018-07-23T14:25:40+08:00 ] 123.122.17.4 /Api/KolManager/getKolProductList?kol_id=1
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000007s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000031s ]
+
+[ 2018-07-23T14:25:40+08:00 ] 123.122.17.4 /Api/KolManager/getKolInfo?kol_id=1
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000005s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000025s ]
+
+[ 2018-07-23T14:25:40+08:00 ] 123.122.17.4 /Api/Product/index
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000006s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000027s ]
+
+[ 2018-07-23T14:25:42+08:00 ] 123.122.17.4 /Api/Login/getsessionkey
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000010s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000049s ]
+
+[ 2018-07-23T14:25:43+08:00 ] 123.122.17.4 /Api/Login/authlogin
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000008s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000039s ]
+
+[ 2018-07-23T14:26:31+08:00 ] 123.122.17.4 /Api/Product/index
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000012s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000036s ]
+
+[ 2018-07-23T14:26:31+08:00 ] 123.122.17.4 /Api/KolManager/getKolInfo?kol_id=1
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000004s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000022s ]
+
+[ 2018-07-23T14:26:31+08:00 ] 123.122.17.4 /Api/KolManager/getKolProductList?kol_id=1
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000005s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000027s ]
+
+[ 2018-07-23T14:26:34+08:00 ] 123.122.17.4 /Api/Login/getsessionkey
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000010s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000037s ]
+
+[ 2018-07-23T14:26:35+08:00 ] 123.122.17.4 /Api/Login/authlogin
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000007s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000030s ]
+
+[ 2018-07-23T14:27:56+08:00 ] 123.122.17.4 /Api/KolManager/getKolInfo?kol_id=1
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000007s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000031s ]
+
+[ 2018-07-23T14:27:56+08:00 ] 123.122.17.4 /Api/KolManager/getKolProductList?kol_id=1
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000005s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000025s ]
+
+[ 2018-07-23T14:27:56+08:00 ] 123.122.17.4 /Api/Product/index
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000007s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000031s ]
+
+[ 2018-07-23T14:27:57+08:00 ] 123.122.17.4 /Api/Login/getsessionkey
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000005s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000025s ]
+
+[ 2018-07-23T14:27:57+08:00 ] 123.122.17.4 /Api/Login/authlogin
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000020s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000045s ]
+
+[ 2018-07-23T14:27:58+08:00 ] 123.122.17.4 /Api/Shopping/add
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000007s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000031s ]
+
+[ 2018-07-23T14:28:02+08:00 ] 123.122.17.4 /Api/Shopping/add
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000009s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000043s ]
+
+[ 2018-07-23T14:28:03+08:00 ] 123.122.17.4 /Api/Shopping/add
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000007s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000032s ]
+
+[ 2018-07-23T14:29:01+08:00 ] 123.122.17.4 /Api/Shopping/add
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000010s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000044s ]
+
+[ 2018-07-23T14:29:09+08:00 ] 123.122.17.4 /Api/Shopping/add
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000007s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000031s ]
+
+[ 2018-07-23T14:29:13+08:00 ] 123.122.17.4 /Api/Shopping/add
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000006s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000032s ]
+
+[ 2018-07-23T14:29:27+08:00 ] 123.122.17.4 /Api/Shopping/add
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000006s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000043s ]
+
+[ 2018-07-23T14:29:47+08:00 ] 123.122.17.4 /Api/Product/index
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000009s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000042s ]
+
+[ 2018-07-23T14:29:47+08:00 ] 123.122.17.4 /Api/KolManager/getKolInfo?kol_id=1
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000006s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000030s ]
+
+[ 2018-07-23T14:29:47+08:00 ] 123.122.17.4 /Api/KolManager/getKolProductList?kol_id=1
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000005s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000027s ]
+
+[ 2018-07-23T14:29:50+08:00 ] 123.122.17.4 /Api/Login/getsessionkey
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000007s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000033s ]
+
+[ 2018-07-23T14:29:57+08:00 ] 123.122.17.4 /Api/Login/authlogin
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000006s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000030s ]
+
+[ 2018-07-23T14:30:52+08:00 ] 123.122.17.4 /Api/Shopping/add
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000010s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000045s ]
+
+[ 2018-07-23T14:35:38+08:00 ] 123.122.17.4 /Api/Product/index
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000006s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000031s ]
+
+[ 2018-07-23T14:35:38+08:00 ] 123.122.17.4 /Api/KolManager/getKolInfo?kol_id=1
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000006s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000034s ]
+
+[ 2018-07-23T14:35:38+08:00 ] 123.122.17.4 /Api/KolManager/getKolProductList?kol_id=1
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000005s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000027s ]
+
+[ 2018-07-23T14:35:39+08:00 ] 123.122.17.4 /Api/Login/getsessionkey
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000007s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000033s ]
+
+[ 2018-07-23T14:35:39+08:00 ] 123.122.17.4 /Api/Login/authlogin
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000006s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000028s ]
+
+[ 2018-07-23T14:44:44+08:00 ] 123.122.17.4 /Api/KolManager/getKolInfo?kol_id=1
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000007s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000030s ]
+
+[ 2018-07-23T14:44:44+08:00 ] 123.122.17.4 /Api/KolManager/getKolProductList?kol_id=1
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000040s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000065s ]
+
+[ 2018-07-23T14:44:44+08:00 ] 123.122.17.4 /Api/Product/index
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000007s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000030s ]
+
+[ 2018-07-23T14:44:46+08:00 ] 123.122.17.4 /Api/Login/getsessionkey
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000007s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000030s ]
+
+[ 2018-07-23T14:44:47+08:00 ] 123.122.17.4 /Api/Login/authlogin
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000006s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000030s ]
+
+[ 2018-07-23T14:47:56+08:00 ] 123.122.17.4 /Api/KolManager/getKolInfo?kol_id=1
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000007s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000027s ]
+
+[ 2018-07-23T14:47:56+08:00 ] 123.122.17.4 /Api/Product/index
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000006s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000029s ]
+
+[ 2018-07-23T14:47:56+08:00 ] 123.122.17.4 /Api/KolManager/getKolProductList?kol_id=1
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000006s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000028s ]
+
+[ 2018-07-23T14:47:57+08:00 ] 123.122.17.4 /Api/Login/getsessionkey
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000009s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000036s ]
+
+[ 2018-07-23T14:48:00+08:00 ] 123.122.17.4 /Api/Login/authlogin
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000006s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000030s ]
+
+[ 2018-07-23T14:48:05+08:00 ] 123.122.17.4 /Api/KolManager/getKolProductList?kol_id=1
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000005s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000027s ]
+
+[ 2018-07-23T14:48:05+08:00 ] 123.122.17.4 /Api/KolManager/getKolInfo?kol_id=1
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000006s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000029s ]
+
+[ 2018-07-23T14:48:05+08:00 ] 123.122.17.4 /Api/Product/index
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000005s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000028s ]
+
+[ 2018-07-23T14:48:06+08:00 ] 123.122.17.4 /Api/Login/getsessionkey
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000010s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000042s ]
+
+[ 2018-07-23T14:48:07+08:00 ] 123.122.17.4 /Api/Login/authlogin
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000007s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000032s ]
+
+[ 2018-07-23T14:48:11+08:00 ] 123.122.17.4 /Api/Shopping/add
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000006s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000028s ]
+
+[ 2018-07-23T14:49:12+08:00 ] 123.122.17.4 /Api/Product/index
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000005s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000023s ]
+
+[ 2018-07-23T14:49:12+08:00 ] 123.122.17.4 /Api/KolManager/getKolInfo?kol_id=1
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000007s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000028s ]
+
+[ 2018-07-23T14:49:12+08:00 ] 123.122.17.4 /Api/KolManager/getKolProductList?kol_id=1
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000006s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000027s ]
+
+[ 2018-07-23T14:49:13+08:00 ] 123.122.17.4 /Api/Login/getsessionkey
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000006s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000026s ]
+
+[ 2018-07-23T14:49:13+08:00 ] 123.122.17.4 /Api/Login/authlogin
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000006s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000029s ]
+
+[ 2018-07-23T14:49:19+08:00 ] 123.122.17.4 /Api/KolManager/getKolProductList?kol_id=1
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000008s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000041s ]
+
+[ 2018-07-23T14:49:19+08:00 ] 123.122.17.4 /Api/KolManager/getKolInfo?kol_id=1
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000007s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000027s ]
+
+[ 2018-07-23T14:49:19+08:00 ] 123.122.17.4 /Api/Product/index
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000004s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000027s ]
+
+[ 2018-07-23T14:49:21+08:00 ] 123.122.17.4 /Api/Login/getsessionkey
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000010s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000045s ]
+
+[ 2018-07-23T14:49:22+08:00 ] 123.122.17.4 /Api/Login/authlogin
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000006s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000032s ]
+
+[ 2018-07-23T14:49:40+08:00 ] 123.122.17.4 /Api/Shopping/add
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000008s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000038s ]
+
+[ 2018-07-23T14:49:42+08:00 ] 123.122.17.4 /Api/Payment/buy_cart
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000009s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000042s ]
+
+[ 2018-07-23T14:50:03+08:00 ] 123.122.17.4 /Api/KolManager/getKolProductList?kol_id=1
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000010s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000047s ]
+
+[ 2018-07-23T14:50:03+08:00 ] 123.122.17.4 /Api/KolManager/getKolInfo?kol_id=1
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000009s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000042s ]
+
+[ 2018-07-23T14:50:03+08:00 ] 123.122.17.4 /Api/Product/index
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000009s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000040s ]
+
+[ 2018-07-23T14:50:07+08:00 ] 123.122.17.4 /Api/Login/getsessionkey
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000006s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000030s ]
+
+[ 2018-07-23T14:50:08+08:00 ] 123.122.17.4 /Api/Login/authlogin
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000006s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000030s ]
+
+[ 2018-07-23T14:50:13+08:00 ] 123.122.17.4 /Api/Shopping/add
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000007s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000032s ]
+
+[ 2018-07-23T14:50:14+08:00 ] 123.122.17.4 /Api/Payment/buy_cart
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000006s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000031s ]
+
+[ 2018-07-23T14:52:18+08:00 ] 123.122.17.4 /Api/KolManager/getKolInfo?kol_id=1
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000009s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000042s ]
+
+[ 2018-07-23T14:52:18+08:00 ] 123.122.17.4 /Api/Product/index
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000005s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000025s ]
+
+[ 2018-07-23T14:52:18+08:00 ] 123.122.17.4 /Api/KolManager/getKolProductList?kol_id=1
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000007s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000030s ]
+
+[ 2018-07-23T14:52:19+08:00 ] 123.122.17.4 /Api/Login/getsessionkey
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000007s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000033s ]
+
+[ 2018-07-23T14:52:20+08:00 ] 123.122.17.4 /Api/Login/authlogin
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000010s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000044s ]
+
+[ 2018-07-23T14:52:27+08:00 ] 123.122.17.4 /Api/Shopping/add
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000008s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000035s ]
+
+[ 2018-07-23T14:52:28+08:00 ] 123.122.17.4 /Api/Payment/buy_cart
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000006s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000032s ]
+
+[ 2018-07-23T14:58:01+08:00 ] 123.122.17.4 /Api/KolManager/getKolInfo?kol_id=1
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000005s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000025s ]
+
+[ 2018-07-23T14:58:01+08:00 ] 123.122.17.4 /Api/KolManager/getKolProductList?kol_id=1
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000009s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000040s ]
+
+[ 2018-07-23T14:58:01+08:00 ] 123.122.17.4 /Api/Login/getsessionkey
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000007s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000032s ]
+
+[ 2018-07-23T14:58:01+08:00 ] 123.122.17.4 /Api/Login/authlogin
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000007s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000030s ]
+
+[ 2018-07-23T14:58:07+08:00 ] 123.122.17.4 /Api/Shopping/add
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000009s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000057s ]
+
+[ 2018-07-23T14:58:08+08:00 ] 123.122.17.4 /Api/Payment/buy_cart
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000009s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000039s ]
+
+[ 2018-07-23T14:58:46+08:00 ] 123.122.17.4 /Api/KolManager/getKolInfo?kol_id=1
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000006s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000028s ]
+
+[ 2018-07-23T14:58:46+08:00 ] 123.122.17.4 /Api/KolManager/getKolProductList?kol_id=1
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000005s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000022s ]
+
+[ 2018-07-23T14:58:46+08:00 ] 123.122.17.4 /Api/Login/getsessionkey
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000009s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000038s ]
+
+[ 2018-07-23T14:58:46+08:00 ] 123.122.17.4 /Api/Login/authlogin
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000006s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000030s ]
+
+[ 2018-07-23T14:58:49+08:00 ] 123.122.17.4 /Api/Shopping/add
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000006s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000029s ]
+
+[ 2018-07-23T14:58:50+08:00 ] 123.122.17.4 /Api/Payment/buy_cart
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000007s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000044s ]
+
+[ 2018-07-23T14:58:53+08:00 ] 123.122.17.4 /Api/KolManager/getKolInfo?kol_id=1
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000006s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000031s ]
+
+[ 2018-07-23T14:58:53+08:00 ] 123.122.17.4 /Api/KolManager/getKolProductList?kol_id=1
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000005s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000025s ]
+
+[ 2018-07-23T14:58:53+08:00 ] 123.122.17.4 /Api/Login/getsessionkey
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000008s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000039s ]
+
+[ 2018-07-23T14:58:53+08:00 ] 123.122.17.4 /Api/Login/authlogin
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000010s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000048s ]
+
+[ 2018-07-23T15:00:33+08:00 ] 123.122.17.4 /Api/KolManager/getKolProductList?kol_id=1
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000007s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000030s ]
+
+[ 2018-07-23T15:00:33+08:00 ] 123.122.17.4 /Api/KolManager/getKolInfo?kol_id=1
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000007s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000033s ]
+
+[ 2018-07-23T15:00:33+08:00 ] 123.122.17.4 /Api/Login/getsessionkey
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000006s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000029s ]
+
+[ 2018-07-23T15:00:33+08:00 ] 123.122.17.4 /Api/Login/authlogin
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000010s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000044s ]
+
+[ 2018-07-23T15:03:12+08:00 ] 123.122.17.4 /Api/KolManager/getKolInfo?kol_id=1
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000006s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000030s ]
+
+[ 2018-07-23T15:03:12+08:00 ] 123.122.17.4 /Api/KolManager/getKolProductList?kol_id=1
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000006s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000031s ]
+
+[ 2018-07-23T15:03:12+08:00 ] 123.122.17.4 /Api/Login/getsessionkey
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000007s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000030s ]
+
+[ 2018-07-23T15:03:12+08:00 ] 123.122.17.4 /Api/Login/authlogin
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000007s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000029s ]
+
+[ 2018-07-23T15:23:37+08:00 ] 223.104.3.198 /Api/Index/index
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000009s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000041s ]
+
+[ 2018-07-23T15:23:37+08:00 ] 223.104.3.198 /Api/Shopping/index
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000008s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000037s ]
+
+[ 2018-07-23T15:23:37+08:00 ] 223.104.3.198 /Api/Login/getsessionkey
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000008s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000056s ]
+
+[ 2018-07-23T15:23:37+08:00 ] 223.104.3.198 /Api/Login/authlogin
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000008s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000037s ]
+
+[ 2018-07-23T15:23:40+08:00 ] 223.104.3.198 /Api/Index/getlist
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000009s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000041s ]
+
+[ 2018-07-23T15:23:42+08:00 ] 223.104.3.198 /Api/Index/getlist
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000006s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000029s ]
+
+[ 2018-07-23T15:23:44+08:00 ] 223.104.3.198 /Api/Index/getlist
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000010s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000042s ]
+
+[ 2018-07-23T15:23:48+08:00 ] 223.104.3.198 /Api/Index/getlist
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000008s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000032s ]
+
+[ 2018-07-23T17:05:25+08:00 ] 117.136.38.38 /Api/Index/index
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000009s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000042s ]
+
+[ 2018-07-23T17:05:25+08:00 ] 117.136.38.38 /Api/Shopping/index
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000007s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000033s ]
+
+[ 2018-07-23T17:05:25+08:00 ] 117.136.38.38 /Api/Login/getsessionkey
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000008s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000037s ]
+
+[ 2018-07-23T17:05:25+08:00 ] 117.136.38.38 /Api/Login/authlogin
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000006s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000029s ]
+
+[ 2018-07-23T17:06:19+08:00 ] 117.136.38.38 /Api/Product/index
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000008s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000059s ]
+
+[ 2018-07-23T17:06:20+08:00 ] 117.136.38.38 /Api/Index/getlist
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000006s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000029s ]
+
+[ 2018-07-23T17:06:20+08:00 ] 117.136.38.38 /Api/Shopping/index
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000006s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000029s ]
+
+[ 2018-07-23T17:06:20+08:00 ] 117.136.38.38 /Api/Shopping/index
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000005s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000024s ]
+
+[ 2018-07-23T17:06:20+08:00 ] 117.136.38.38 /Api/Product/index
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000009s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000040s ]
+
+[ 2018-07-23T17:06:20+08:00 ] 117.136.38.38 /Api/Index/getlist
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000009s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000043s ]
+
+[ 2018-07-23T17:06:20+08:00 ] 117.136.38.38 /Api/Product/index
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000020s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000044s ]
+
+[ 2018-07-23T17:06:20+08:00 ] 117.136.38.38 /Api/Shopping/index
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000006s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000029s ]
+
+[ 2018-07-23T17:06:27+08:00 ] 117.136.38.38 /Api/User/getorder
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000007s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000030s ]
+
+[ 2018-07-23T17:06:27+08:00 ] 117.136.38.38 /Api/User/getorder
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000007s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000034s ]
+
+[ 2018-07-23T17:06:31+08:00 ] 117.136.38.38 /Api/Order/index
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000021s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000050s ]
+
+[ 2018-07-23T17:06:35+08:00 ] 117.136.38.38 /Api/User/getorder
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000006s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000031s ]
+
+[ 2018-07-23T17:06:38+08:00 ] 117.136.38.38 /Api/Index/index
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000008s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000038s ]
+
+[ 2018-07-23T17:06:38+08:00 ] 117.136.38.38 /Api/Shopping/index
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000010s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000042s ]
+
+[ 2018-07-23T17:06:41+08:00 ] 117.136.38.38 /Api/Shopping/index
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000006s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000028s ]
+
+[ 2018-07-23T19:07:23+08:00 ] 117.136.38.38 /Api/Index/index
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000006s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000028s ]
+
+[ 2018-07-23T19:07:23+08:00 ] 117.136.38.38 /Api/Shopping/index
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000007s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000030s ]
+
+[ 2018-07-23T19:07:23+08:00 ] 117.136.38.38 /Api/Login/getsessionkey
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000007s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000031s ]
+
+[ 2018-07-23T19:07:23+08:00 ] 117.136.38.38 /Api/Login/authlogin
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000009s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000045s ]
+
+[ 2018-07-23T19:07:27+08:00 ] 117.136.38.38 /Api/Product/index
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000008s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000037s ]
+
+[ 2018-07-23T19:07:35+08:00 ] 117.136.38.38 /Api/Shopping/add
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000007s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000030s ]
+
+[ 2018-07-23T19:07:35+08:00 ] 117.136.38.38 /Api/Payment/buy_cart
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000008s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000038s ]
+
+[ 2018-07-23T19:07:48+08:00 ] 117.136.38.38 /Api/Shopping/index
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000007s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000030s ]
+
+[ 2018-07-23T20:24:12+08:00 ] 223.98.211.104 /Api/Shopping/index
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000005s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000024s ]
+
+[ 2018-07-23T20:24:12+08:00 ] 223.98.211.104 /Api/Index/index
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000005s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000026s ]
+
+[ 2018-07-23T20:24:12+08:00 ] 223.98.211.104 /Api/Login/getsessionkey
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000006s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000028s ]
+
+[ 2018-07-23T20:24:12+08:00 ] 223.98.211.104 /Api/Login/authlogin
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000009s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000039s ]
+
+[ 2018-07-23T20:24:36+08:00 ] 223.98.211.104 /Api/Index/getlist
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000007s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000029s ]
+
+[ 2018-07-23T20:24:52+08:00 ] 223.98.211.104 /Api/Index/getlist
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000007s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000030s ]
+
+[ 2018-07-23T20:25:07+08:00 ] 223.98.211.104 /Api/Index/getlist
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000010s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000037s ]
+
+[ 2018-07-23T20:25:25+08:00 ] 223.98.211.104 /Api/Index/getlist
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000006s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000030s ]
+
+[ 2018-07-23T20:25:41+08:00 ] 223.98.211.104 /Api/Index/getlist
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000011s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000046s ]
+
+[ 2018-07-23T21:59:22+08:00 ] 123.123.210.253 /Api/KolManager/getKolProductList?kol_id=1
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000006s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000030s ]
+
+[ 2018-07-23T21:59:48+08:00 ] 123.123.210.253 /Api/KolManager/getKolProductList?kol_id=1
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000005s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000023s ]
+
+[ 2018-07-23T21:59:48+08:00 ] 123.123.210.253 /Api/KolManager/getKolInfo?kol_id=1
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000009s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000039s ]
+
+[ 2018-07-23T21:59:48+08:00 ] 123.123.210.253 /Api/Login/getsessionkey
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000010s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000063s ]
+
+[ 2018-07-23T21:59:48+08:00 ] 123.123.210.253 /Api/Login/authlogin
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000007s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000034s ]
+
+[ 2018-07-23T21:59:50+08:00 ] 123.123.210.253 /Api/Shopping/add
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000007s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000032s ]
+
+[ 2018-07-23T21:59:51+08:00 ] 123.123.210.253 /Api/Payment/buy_cart
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000007s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000033s ]
+
+[ 2018-07-23T21:59:57+08:00 ] 123.123.210.253 /Api/Payment/payment
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000007s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000029s ]
+
+[ 2018-07-23T21:59:57+08:00 ] 123.123.210.253 /Api/Wxpay/wxpay
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000006s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000030s ]
+
+[ 2018-07-23T22:00:10+08:00 ] 123.123.210.253 /Api/Login/getsessionkey
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000016s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000051s ]
+
+[ 2018-07-23T22:00:10+08:00 ] 123.123.210.253 /Api/KolManager/getKolProductList?kol_id=1
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000007s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000033s ]
+
+[ 2018-07-23T22:00:10+08:00 ] 123.123.210.253 /Api/KolManager/getKolInfo?kol_id=1
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000008s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000039s ]
+
+[ 2018-07-23T22:00:10+08:00 ] 123.123.210.253 /Api/Login/authlogin
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000007s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000033s ]
+
+[ 2018-07-23T22:03:05+08:00 ] 123.123.210.253 /Api/KolManager/getKolInfo?kol_id=1
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000009s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000041s ]
+
+[ 2018-07-23T22:03:05+08:00 ] 123.123.210.253 /Api/KolManager/getKolProductList?kol_id=1
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000005s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000024s ]
+
+[ 2018-07-23T22:03:05+08:00 ] 123.123.210.253 /Api/Login/getsessionkey
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000008s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000032s ]
+
+[ 2018-07-23T22:03:06+08:00 ] 123.123.210.253 /Api/Login/authlogin
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000008s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000036s ]
+
+[ 2018-07-23T22:03:40+08:00 ] 123.123.210.253 /Api/Login/getsessionkey
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000012s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000040s ]
+
+[ 2018-07-23T22:03:40+08:00 ] 123.123.210.253 /Api/KolManager/getKolProductList?kol_id=1
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000007s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000045s ]
+
+[ 2018-07-23T22:03:40+08:00 ] 123.123.210.253 /Api/KolManager/getKolInfo?kol_id=1
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000007s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000031s ]
+
+[ 2018-07-23T22:03:40+08:00 ] 123.123.210.253 /Api/Login/authlogin
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000006s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000028s ]
+
+[ 2018-07-23T22:03:43+08:00 ] 123.123.210.253 /Api/Login/getsessionkey
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000007s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000031s ]
+
+[ 2018-07-23T22:03:43+08:00 ] 123.123.210.253 /Api/Login/authlogin
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000007s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000031s ]
+
+[ 2018-07-23T22:03:43+08:00 ] 123.123.210.253 /Api/KolManager/getKolInfo?kol_id=1
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000006s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000036s ]
+
+[ 2018-07-23T22:03:43+08:00 ] 123.123.210.253 /Api/KolManager/getKolProductList?kol_id=1
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000005s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000025s ]
+
+[ 2018-07-23T22:34:35+08:00 ] 119.90.198.100 /Api/Product/index
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000007s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000030s ]
+
+[ 2018-07-23T22:34:36+08:00 ] 119.90.198.100 /Api/Login/getsessionkey
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000006s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000029s ]
+
+[ 2018-07-23T22:34:36+08:00 ] 119.90.198.100 /Api/Login/authlogin
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000009s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000037s ]
+
+[ 2018-07-23T22:34:54+08:00 ] 119.90.198.100 /Api/Product/index
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000006s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000029s ]
+
+[ 2018-07-23T22:35:12+08:00 ] 119.90.198.100 /Api/Product/index
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000006s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000029s ]
+
+[ 2018-07-23T22:35:24+08:00 ] 119.90.198.100 /Api/Product/index
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000009s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000043s ]
+
+[ 2018-07-23T22:36:37+08:00 ] 103.192.224.176 /Api/KolManager/getKolProductList?kol_id=1
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000009s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000040s ]
+
+[ 2018-07-23T22:36:43+08:00 ] 103.192.224.176 /Api/KolManager/getKolProductList?kol_id=1
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000010s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000063s ]
+
+[ 2018-07-23T23:04:39+08:00 ] 123.123.210.253 /Api/KolManager/getKolProductList?kol_id=1
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000007s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000030s ]
+
+[ 2018-07-23T23:47:55+08:00 ] 123.123.210.253 /Api/KolManager/getKolProductList?kol_id=1
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000007s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000029s ]
+

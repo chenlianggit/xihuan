@@ -1,0 +1,786 @@
+[ 2018-07-16T09:25:02+08:00 ] 111.201.244.110 /admin.php/Index/index.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000006s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000036s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000311s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000333s ]
+NOTIC: [2] session_name(): Cannot change session name when session is active /home/wwwroot/test.xihuanmall.com/ThinkPHP/Common/functions.php 第 1238 行.
+NOTIC: [2] ini_set(): A session is active. You cannot change the session module's ini settings at this time /home/wwwroot/test.xihuanmall.com/ThinkPHP/Common/functions.php 第 1242 行.
+NOTIC: [2] ini_set(): A session is active. You cannot change the session module's ini settings at this time /home/wwwroot/test.xihuanmall.com/ThinkPHP/Common/functions.php 第 1243 行.
+NOTIC: [8] session_start(): A session had already been started - ignoring /home/wwwroot/test.xihuanmall.com/ThinkPHP/Common/functions.php 第 1263 行.
+SQL: SHOW COLUMNS FROM `tp_menu` [ RunTime:0.0139s ]
+SQL: SELECT * FROM `tp_menu` ORDER BY step asc  [ RunTime:0.0001s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000044s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000066s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.003855s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.003874s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000148s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000162s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000422s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000440s ]
+
+[ 2018-07-16T09:25:02+08:00 ] 111.201.244.110 /admin.php/Index/welcome.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000007s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000029s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000270s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000290s ]
+NOTIC: [2] session_name(): Cannot change session name when session is active /home/wwwroot/test.xihuanmall.com/ThinkPHP/Common/functions.php 第 1238 行.
+NOTIC: [2] ini_set(): A session is active. You cannot change the session module's ini settings at this time /home/wwwroot/test.xihuanmall.com/ThinkPHP/Common/functions.php 第 1242 行.
+NOTIC: [2] ini_set(): A session is active. You cannot change the session module's ini settings at this time /home/wwwroot/test.xihuanmall.com/ThinkPHP/Common/functions.php 第 1243 行.
+NOTIC: [8] session_start(): A session had already been started - ignoring /home/wwwroot/test.xihuanmall.com/ThinkPHP/Common/functions.php 第 1263 行.
+SQL: SHOW COLUMNS FROM `tp_menu` [ RunTime:0.0006s ]
+SQL: SELECT * FROM `tp_menu` ORDER BY step asc  [ RunTime:0.0001s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000358s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000378s ]
+
+[ 2018-07-16T09:25:04+08:00 ] 111.201.244.110 /admin.php/Order/index.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000006s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000028s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000293s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000311s ]
+NOTIC: [2] Declaration of Admin\Controller\OrderController::show() should be compatible with Think\Controller::show($content, $charset = '', $contentType = '', $prefix = '') /home/wwwroot/test.xihuanmall.com/Application/Admin/Controller/OrderController.class.php 第 4 行.
+SQL: SHOW COLUMNS FROM `tp_order` [ RunTime:0.0007s ]
+SQL: SHOW COLUMNS FROM `tp_order_product` [ RunTime:0.0004s ]
+NOTIC: [2] session_name(): Cannot change session name when session is active /home/wwwroot/test.xihuanmall.com/ThinkPHP/Common/functions.php 第 1238 行.
+NOTIC: [2] ini_set(): A session is active. You cannot change the session module's ini settings at this time /home/wwwroot/test.xihuanmall.com/ThinkPHP/Common/functions.php 第 1242 行.
+NOTIC: [2] ini_set(): A session is active. You cannot change the session module's ini settings at this time /home/wwwroot/test.xihuanmall.com/ThinkPHP/Common/functions.php 第 1243 行.
+NOTIC: [8] session_start(): A session had already been started - ignoring /home/wwwroot/test.xihuanmall.com/ThinkPHP/Common/functions.php 第 1263 行.
+SQL: SHOW COLUMNS FROM `tp_menu` [ RunTime:0.0004s ]
+SQL: SELECT * FROM `tp_menu` ORDER BY step asc  [ RunTime:0.0001s ]
+NOTIC: [8] Undefined index: pay_type /home/wwwroot/test.xihuanmall.com/Application/Admin/Controller/OrderController.class.php 第 25 行.
+NOTIC: [8] Undefined index: pay_status /home/wwwroot/test.xihuanmall.com/Application/Admin/Controller/OrderController.class.php 第 26 行.
+NOTIC: [8] Undefined index: start_time /home/wwwroot/test.xihuanmall.com/Application/Admin/Controller/OrderController.class.php 第 27 行.
+NOTIC: [8] Undefined index: end_time /home/wwwroot/test.xihuanmall.com/Application/Admin/Controller/OrderController.class.php 第 28 行.
+SQL: SELECT COUNT(*) AS tp_count FROM `tp_order` WHERE ( 1=1 AND del=0 ) LIMIT 1   [ RunTime:0.0000s ]
+SQL: SELECT * FROM `tp_order` WHERE ( 1=1 AND del=0 ) ORDER BY id desc LIMIT 0,25   [ RunTime:0.0001s ]
+SQL: SHOW COLUMNS FROM `tp_user` [ RunTime:0.0004s ]
+SQL: SELECT `uname` FROM `tp_user` WHERE ( id=628 ) LIMIT 1   [ RunTime:0.0001s ]
+SQL: SELECT `uname` FROM `tp_user` WHERE ( id=598 ) LIMIT 1   [ RunTime:0.0001s ]
+SQL: SELECT `uname` FROM `tp_user` WHERE ( id=555 ) LIMIT 1   [ RunTime:0.0001s ]
+SQL: SELECT `uname` FROM `tp_user` WHERE ( id=575 ) LIMIT 1   [ RunTime:0.0001s ]
+SQL: SELECT `uname` FROM `tp_user` WHERE ( id=553 ) LIMIT 1   [ RunTime:0.0001s ]
+SQL: SELECT `uname` FROM `tp_user` WHERE ( id=553 ) LIMIT 1   [ RunTime:0.0000s ]
+SQL: SELECT `uname` FROM `tp_user` WHERE ( id=553 ) LIMIT 1   [ RunTime:0.0000s ]
+SQL: SELECT `uname` FROM `tp_user` WHERE ( id=553 ) LIMIT 1   [ RunTime:0.0000s ]
+SQL: SELECT `uname` FROM `tp_user` WHERE ( id=553 ) LIMIT 1   [ RunTime:0.0000s ]
+SQL: SELECT `uname` FROM `tp_user` WHERE ( id=555 ) LIMIT 1   [ RunTime:0.0000s ]
+SQL: SELECT `uname` FROM `tp_user` WHERE ( id=553 ) LIMIT 1   [ RunTime:0.0000s ]
+SQL: SELECT `uname` FROM `tp_user` WHERE ( id=553 ) LIMIT 1   [ RunTime:0.0000s ]
+SQL: SELECT `uname` FROM `tp_user` WHERE ( id=553 ) LIMIT 1   [ RunTime:0.0000s ]
+SQL: SELECT `uname` FROM `tp_user` WHERE ( id=553 ) LIMIT 1   [ RunTime:0.0000s ]
+SQL: SELECT `uname` FROM `tp_user` WHERE ( id=553 ) LIMIT 1   [ RunTime:0.0000s ]
+SQL: SELECT `uname` FROM `tp_user` WHERE ( id=553 ) LIMIT 1   [ RunTime:0.0000s ]
+SQL: SELECT `uname` FROM `tp_user` WHERE ( id=553 ) LIMIT 1   [ RunTime:0.0000s ]
+SQL: SELECT `uname` FROM `tp_user` WHERE ( id=553 ) LIMIT 1   [ RunTime:0.0000s ]
+SQL: SELECT `uname` FROM `tp_user` WHERE ( id=553 ) LIMIT 1   [ RunTime:0.0000s ]
+SQL: SELECT `uname` FROM `tp_user` WHERE ( id=553 ) LIMIT 1   [ RunTime:0.0000s ]
+SQL: SELECT `uname` FROM `tp_user` WHERE ( id=553 ) LIMIT 1   [ RunTime:0.0000s ]
+SQL: SELECT `uname` FROM `tp_user` WHERE ( id=553 ) LIMIT 1   [ RunTime:0.0000s ]
+SQL: SELECT `uname` FROM `tp_user` WHERE ( id=553 ) LIMIT 1   [ RunTime:0.0000s ]
+SQL: SELECT `uname` FROM `tp_user` WHERE ( id=556 ) LIMIT 1   [ RunTime:0.0001s ]
+SQL: SELECT `uname` FROM `tp_user` WHERE ( id=553 ) LIMIT 1   [ RunTime:0.0000s ]
+NOTIC: [8] Undefined index: admininfo /home/wwwroot/test.xihuanmall.com/Application/Admin/Controller/OrderController.class.php 第 119 行.
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000058s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000078s ]
+NOTIC: [8] Undefined variable: pay_type /home/wwwroot/test.xihuanmall.com/Application/Runtime/Cache/Admin/18bc66a7b6334412ab8e61a2539ecfbd.php 第 42 行.
+NOTIC: [8] Undefined variable: pay_type /home/wwwroot/test.xihuanmall.com/Application/Runtime/Cache/Admin/18bc66a7b6334412ab8e61a2539ecfbd.php 第 43 行.
+NOTIC: [8] Undefined variable: pay_status /home/wwwroot/test.xihuanmall.com/Application/Runtime/Cache/Admin/18bc66a7b6334412ab8e61a2539ecfbd.php 第 52 行.
+NOTIC: [8] Undefined variable: pay_status /home/wwwroot/test.xihuanmall.com/Application/Runtime/Cache/Admin/18bc66a7b6334412ab8e61a2539ecfbd.php 第 52 行.
+NOTIC: [8] Undefined variable: pay_status /home/wwwroot/test.xihuanmall.com/Application/Runtime/Cache/Admin/18bc66a7b6334412ab8e61a2539ecfbd.php 第 52 行.
+NOTIC: [8] Undefined variable: pay_status /home/wwwroot/test.xihuanmall.com/Application/Runtime/Cache/Admin/18bc66a7b6334412ab8e61a2539ecfbd.php 第 52 行.
+NOTIC: [8] Undefined variable: pay_status /home/wwwroot/test.xihuanmall.com/Application/Runtime/Cache/Admin/18bc66a7b6334412ab8e61a2539ecfbd.php 第 52 行.
+NOTIC: [8] Undefined variable: pay_status /home/wwwroot/test.xihuanmall.com/Application/Runtime/Cache/Admin/18bc66a7b6334412ab8e61a2539ecfbd.php 第 52 行.
+NOTIC: [8] Undefined variable: pay_status /home/wwwroot/test.xihuanmall.com/Application/Runtime/Cache/Admin/18bc66a7b6334412ab8e61a2539ecfbd.php 第 54 行.
+NOTIC: [8] Undefined variable: pay_status /home/wwwroot/test.xihuanmall.com/Application/Runtime/Cache/Admin/18bc66a7b6334412ab8e61a2539ecfbd.php 第 55 行.
+NOTIC: [8] Undefined variable: start_time /home/wwwroot/test.xihuanmall.com/Application/Runtime/Cache/Admin/18bc66a7b6334412ab8e61a2539ecfbd.php 第 61 行.
+NOTIC: [8] Undefined variable: end_time /home/wwwroot/test.xihuanmall.com/Application/Runtime/Cache/Admin/18bc66a7b6334412ab8e61a2539ecfbd.php 第 62 行.
+NOTIC: [8] Undefined index: name /home/wwwroot/test.xihuanmall.com/Application/Runtime/Cache/Admin/18bc66a7b6334412ab8e61a2539ecfbd.php 第 88 行.
+NOTIC: [8] Undefined index: name /home/wwwroot/test.xihuanmall.com/Application/Runtime/Cache/Admin/18bc66a7b6334412ab8e61a2539ecfbd.php 第 88 行.
+NOTIC: [8] Undefined index: name /home/wwwroot/test.xihuanmall.com/Application/Runtime/Cache/Admin/18bc66a7b6334412ab8e61a2539ecfbd.php 第 88 行.
+NOTIC: [8] Undefined index: name /home/wwwroot/test.xihuanmall.com/Application/Runtime/Cache/Admin/18bc66a7b6334412ab8e61a2539ecfbd.php 第 88 行.
+NOTIC: [8] Undefined index: name /home/wwwroot/test.xihuanmall.com/Application/Runtime/Cache/Admin/18bc66a7b6334412ab8e61a2539ecfbd.php 第 88 行.
+NOTIC: [8] Undefined index: name /home/wwwroot/test.xihuanmall.com/Application/Runtime/Cache/Admin/18bc66a7b6334412ab8e61a2539ecfbd.php 第 88 行.
+NOTIC: [8] Undefined index: name /home/wwwroot/test.xihuanmall.com/Application/Runtime/Cache/Admin/18bc66a7b6334412ab8e61a2539ecfbd.php 第 88 行.
+NOTIC: [8] Undefined index: name /home/wwwroot/test.xihuanmall.com/Application/Runtime/Cache/Admin/18bc66a7b6334412ab8e61a2539ecfbd.php 第 88 行.
+NOTIC: [8] Undefined index: name /home/wwwroot/test.xihuanmall.com/Application/Runtime/Cache/Admin/18bc66a7b6334412ab8e61a2539ecfbd.php 第 88 行.
+NOTIC: [8] Undefined index: name /home/wwwroot/test.xihuanmall.com/Application/Runtime/Cache/Admin/18bc66a7b6334412ab8e61a2539ecfbd.php 第 88 行.
+NOTIC: [8] Undefined index: name /home/wwwroot/test.xihuanmall.com/Application/Runtime/Cache/Admin/18bc66a7b6334412ab8e61a2539ecfbd.php 第 88 行.
+NOTIC: [8] Undefined index: name /home/wwwroot/test.xihuanmall.com/Application/Runtime/Cache/Admin/18bc66a7b6334412ab8e61a2539ecfbd.php 第 88 行.
+NOTIC: [8] Undefined index: name /home/wwwroot/test.xihuanmall.com/Application/Runtime/Cache/Admin/18bc66a7b6334412ab8e61a2539ecfbd.php 第 88 行.
+NOTIC: [8] Undefined index: name /home/wwwroot/test.xihuanmall.com/Application/Runtime/Cache/Admin/18bc66a7b6334412ab8e61a2539ecfbd.php 第 88 行.
+NOTIC: [8] Undefined index: name /home/wwwroot/test.xihuanmall.com/Application/Runtime/Cache/Admin/18bc66a7b6334412ab8e61a2539ecfbd.php 第 88 行.
+NOTIC: [8] Undefined index: name /home/wwwroot/test.xihuanmall.com/Application/Runtime/Cache/Admin/18bc66a7b6334412ab8e61a2539ecfbd.php 第 88 行.
+NOTIC: [8] Undefined index: name /home/wwwroot/test.xihuanmall.com/Application/Runtime/Cache/Admin/18bc66a7b6334412ab8e61a2539ecfbd.php 第 88 行.
+NOTIC: [8] Undefined index: name /home/wwwroot/test.xihuanmall.com/Application/Runtime/Cache/Admin/18bc66a7b6334412ab8e61a2539ecfbd.php 第 88 行.
+NOTIC: [8] Undefined index: name /home/wwwroot/test.xihuanmall.com/Application/Runtime/Cache/Admin/18bc66a7b6334412ab8e61a2539ecfbd.php 第 88 行.
+NOTIC: [8] Undefined index: name /home/wwwroot/test.xihuanmall.com/Application/Runtime/Cache/Admin/18bc66a7b6334412ab8e61a2539ecfbd.php 第 88 行.
+NOTIC: [8] Undefined index: name /home/wwwroot/test.xihuanmall.com/Application/Runtime/Cache/Admin/18bc66a7b6334412ab8e61a2539ecfbd.php 第 88 行.
+NOTIC: [8] Undefined index: name /home/wwwroot/test.xihuanmall.com/Application/Runtime/Cache/Admin/18bc66a7b6334412ab8e61a2539ecfbd.php 第 88 行.
+NOTIC: [8] Undefined index: name /home/wwwroot/test.xihuanmall.com/Application/Runtime/Cache/Admin/18bc66a7b6334412ab8e61a2539ecfbd.php 第 88 行.
+NOTIC: [8] Undefined index: name /home/wwwroot/test.xihuanmall.com/Application/Runtime/Cache/Admin/18bc66a7b6334412ab8e61a2539ecfbd.php 第 88 行.
+NOTIC: [8] Undefined index: name /home/wwwroot/test.xihuanmall.com/Application/Runtime/Cache/Admin/18bc66a7b6334412ab8e61a2539ecfbd.php 第 88 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.004469s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.004484s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000117s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000129s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000353s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000371s ]
+
+[ 2018-07-16T17:27:27+08:00 ] 114.252.0.228 /admin.php
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000005s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000026s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000264s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000283s ]
+NOTIC: [2] session_name(): Cannot change session name when session is active /home/wwwroot/test.xihuanmall.com/ThinkPHP/Common/functions.php 第 1238 行.
+NOTIC: [2] ini_set(): A session is active. You cannot change the session module's ini settings at this time /home/wwwroot/test.xihuanmall.com/ThinkPHP/Common/functions.php 第 1242 行.
+NOTIC: [2] ini_set(): A session is active. You cannot change the session module's ini settings at this time /home/wwwroot/test.xihuanmall.com/ThinkPHP/Common/functions.php 第 1243 行.
+NOTIC: [8] session_start(): A session had already been started - ignoring /home/wwwroot/test.xihuanmall.com/ThinkPHP/Common/functions.php 第 1263 行.
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000024s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000042s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.003184s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.003200s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000111s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000126s ]
+
+[ 2018-07-16T17:27:27+08:00 ] 114.252.0.228 /admin.php/Common/verify.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000005s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000025s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000291s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000309s ]
+NOTIC: [2] session_name(): Cannot change session name when session is active /home/wwwroot/test.xihuanmall.com/ThinkPHP/Common/functions.php 第 1238 行.
+NOTIC: [2] ini_set(): A session is active. You cannot change the session module's ini settings at this time /home/wwwroot/test.xihuanmall.com/ThinkPHP/Common/functions.php 第 1242 行.
+NOTIC: [2] ini_set(): A session is active. You cannot change the session module's ini settings at this time /home/wwwroot/test.xihuanmall.com/ThinkPHP/Common/functions.php 第 1243 行.
+NOTIC: [8] session_start(): A session had already been started - ignoring /home/wwwroot/test.xihuanmall.com/ThinkPHP/Common/functions.php 第 1263 行.
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000373s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000400s ]
+
+[ 2018-07-16T17:27:44+08:00 ] 114.252.0.228 /admin.php/Index/login.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000006s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000028s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000247s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000266s ]
+NOTIC: [2] session_name(): Cannot change session name when session is active /home/wwwroot/test.xihuanmall.com/ThinkPHP/Common/functions.php 第 1238 行.
+NOTIC: [2] ini_set(): A session is active. You cannot change the session module's ini settings at this time /home/wwwroot/test.xihuanmall.com/ThinkPHP/Common/functions.php 第 1242 行.
+NOTIC: [2] ini_set(): A session is active. You cannot change the session module's ini settings at this time /home/wwwroot/test.xihuanmall.com/ThinkPHP/Common/functions.php 第 1243 行.
+NOTIC: [8] session_start(): A session had already been started - ignoring /home/wwwroot/test.xihuanmall.com/ThinkPHP/Common/functions.php 第 1263 行.
+SQL: SHOW COLUMNS FROM `tp_admin` [ RunTime:0.0007s ]
+SQL: SELECT * FROM `tp_admin` WHERE `uname` = 'admin' AND `pword` = '21232f297a57a5a743894a0e4a801fc3' LIMIT 1   [ RunTime:0.0001s ]
+
+[ 2018-07-16T17:27:44+08:00 ] 114.252.0.228 /admin.php/Index/index.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000005s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000024s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000266s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000284s ]
+NOTIC: [2] session_name(): Cannot change session name when session is active /home/wwwroot/test.xihuanmall.com/ThinkPHP/Common/functions.php 第 1238 行.
+NOTIC: [2] ini_set(): A session is active. You cannot change the session module's ini settings at this time /home/wwwroot/test.xihuanmall.com/ThinkPHP/Common/functions.php 第 1242 行.
+NOTIC: [2] ini_set(): A session is active. You cannot change the session module's ini settings at this time /home/wwwroot/test.xihuanmall.com/ThinkPHP/Common/functions.php 第 1243 行.
+NOTIC: [8] session_start(): A session had already been started - ignoring /home/wwwroot/test.xihuanmall.com/ThinkPHP/Common/functions.php 第 1263 行.
+SQL: SHOW COLUMNS FROM `tp_menu` [ RunTime:0.0005s ]
+SQL: SELECT * FROM `tp_menu` ORDER BY step asc  [ RunTime:0.0001s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000038s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000058s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.003487s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.003505s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000136s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000150s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000445s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000462s ]
+
+[ 2018-07-16T17:27:44+08:00 ] 114.252.0.228 /admin.php/Index/welcome.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000007s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000032s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000280s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000302s ]
+NOTIC: [2] session_name(): Cannot change session name when session is active /home/wwwroot/test.xihuanmall.com/ThinkPHP/Common/functions.php 第 1238 行.
+NOTIC: [2] ini_set(): A session is active. You cannot change the session module's ini settings at this time /home/wwwroot/test.xihuanmall.com/ThinkPHP/Common/functions.php 第 1242 行.
+NOTIC: [2] ini_set(): A session is active. You cannot change the session module's ini settings at this time /home/wwwroot/test.xihuanmall.com/ThinkPHP/Common/functions.php 第 1243 行.
+NOTIC: [8] session_start(): A session had already been started - ignoring /home/wwwroot/test.xihuanmall.com/ThinkPHP/Common/functions.php 第 1263 行.
+SQL: SHOW COLUMNS FROM `tp_menu` [ RunTime:0.0005s ]
+SQL: SELECT * FROM `tp_menu` ORDER BY step asc  [ RunTime:0.0001s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000353s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000374s ]
+
+[ 2018-07-16T17:27:52+08:00 ] 114.252.0.228 /admin.php/Guanggao/index.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000063s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000091s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000267s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000285s ]
+SQL: SHOW COLUMNS FROM `tp_guanggao` [ RunTime:0.0005s ]
+NOTIC: [2] session_name(): Cannot change session name when session is active /home/wwwroot/test.xihuanmall.com/ThinkPHP/Common/functions.php 第 1238 行.
+NOTIC: [2] ini_set(): A session is active. You cannot change the session module's ini settings at this time /home/wwwroot/test.xihuanmall.com/ThinkPHP/Common/functions.php 第 1242 行.
+NOTIC: [2] ini_set(): A session is active. You cannot change the session module's ini settings at this time /home/wwwroot/test.xihuanmall.com/ThinkPHP/Common/functions.php 第 1243 行.
+NOTIC: [8] session_start(): A session had already been started - ignoring /home/wwwroot/test.xihuanmall.com/ThinkPHP/Common/functions.php 第 1263 行.
+SQL: SHOW COLUMNS FROM `tp_menu` [ RunTime:0.0003s ]
+SQL: SELECT * FROM `tp_menu` ORDER BY step asc  [ RunTime:0.0001s ]
+NOTIC: [8] Undefined index: adv_name /home/wwwroot/test.xihuanmall.com/Application/Admin/Controller/GuanggaoController.class.php 第 20 行.
+SQL: SELECT COUNT(*) AS tp_count FROM `tp_guanggao` LIMIT 1   [ RunTime:0.0000s ]
+SQL: SELECT * FROM `tp_guanggao` ORDER BY addtime desc LIMIT 0,20   [ RunTime:0.0001s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000041s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000060s ]
+NOTIC: [8] Undefined variable: name /home/wwwroot/test.xihuanmall.com/Application/Runtime/Cache/Admin/862740d00b0f449b10e2168b0dd97581.php 第 33 行.
+NOTIC: [8] Undefined variable: type /home/wwwroot/test.xihuanmall.com/Application/Runtime/Cache/Admin/862740d00b0f449b10e2168b0dd97581.php 第 86 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.003180s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.003197s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000111s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000123s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000316s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000332s ]
+
+[ 2018-07-16T17:27:53+08:00 ] 114.252.0.228 /admin.php/Product/index.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000006s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000032s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000338s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000356s ]
+NOTIC: [2] session_name(): Cannot change session name when session is active /home/wwwroot/test.xihuanmall.com/ThinkPHP/Common/functions.php 第 1238 行.
+NOTIC: [2] ini_set(): A session is active. You cannot change the session module's ini settings at this time /home/wwwroot/test.xihuanmall.com/ThinkPHP/Common/functions.php 第 1242 行.
+NOTIC: [2] ini_set(): A session is active. You cannot change the session module's ini settings at this time /home/wwwroot/test.xihuanmall.com/ThinkPHP/Common/functions.php 第 1243 行.
+NOTIC: [8] session_start(): A session had already been started - ignoring /home/wwwroot/test.xihuanmall.com/ThinkPHP/Common/functions.php 第 1263 行.
+SQL: SHOW COLUMNS FROM `tp_menu` [ RunTime:0.0005s ]
+SQL: SELECT * FROM `tp_menu` ORDER BY step asc  [ RunTime:0.0001s ]
+NOTIC: [8] Undefined index: id /home/wwwroot/test.xihuanmall.com/Application/Admin/Controller/ProductController.class.php 第 14 行.
+NOTIC: [8] Undefined index: type /home/wwwroot/test.xihuanmall.com/Application/Admin/Controller/ProductController.class.php 第 17 行.
+NOTIC: [8] Undefined index: tuijian /home/wwwroot/test.xihuanmall.com/Application/Admin/Controller/ProductController.class.php 第 18 行.
+NOTIC: [8] Undefined index: name /home/wwwroot/test.xihuanmall.com/Application/Admin/Controller/ProductController.class.php 第 19 行.
+SQL: SHOW COLUMNS FROM `tp_product` [ RunTime:0.0004s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `tp_product` WHERE ( 1=1 AND pro_type=1 AND del<1 ) LIMIT 1   [ RunTime:0.0000s ]
+NOTIC: [8] Undefined index: page /home/wwwroot/test.xihuanmall.com/Application/Admin/Controller/ProductController.class.php 第 30 行.
+SQL: SELECT * FROM `tp_product` WHERE ( 1=1 AND pro_type=1 AND del<1 ) ORDER BY addtime desc LIMIT 0,20   [ RunTime:0.0001s ]
+SQL: SHOW COLUMNS FROM `tp_category` [ RunTime:0.0003s ]
+SQL: SELECT `name` FROM `tp_category` WHERE ( id=25 ) LIMIT 1   [ RunTime:0.0000s ]
+SQL: SELECT `name` FROM `tp_category` WHERE ( id=25 ) LIMIT 1   [ RunTime:0.0000s ]
+SQL: SELECT `name` FROM `tp_category` WHERE ( id=25 ) LIMIT 1   [ RunTime:0.0000s ]
+SQL: SELECT `name` FROM `tp_category` WHERE ( id=32 ) LIMIT 1   [ RunTime:0.0000s ]
+SQL: SELECT `name` FROM `tp_category` WHERE ( id=33 ) LIMIT 1   [ RunTime:0.0000s ]
+SQL: SELECT `name` FROM `tp_category` WHERE ( id=33 ) LIMIT 1   [ RunTime:0.0000s ]
+SQL: SELECT `name` FROM `tp_category` WHERE ( id=33 ) LIMIT 1   [ RunTime:0.0000s ]
+SQL: SELECT `name` FROM `tp_category` WHERE ( id=54 ) LIMIT 1   [ RunTime:0.0000s ]
+SQL: SELECT `name` FROM `tp_category` WHERE ( id=40 ) LIMIT 1   [ RunTime:0.0000s ]
+SQL: SELECT `name` FROM `tp_category` WHERE ( id=37 ) LIMIT 1   [ RunTime:0.0000s ]
+SQL: SELECT `name` FROM `tp_category` WHERE ( id=40 ) LIMIT 1   [ RunTime:0.0000s ]
+SQL: SELECT `name` FROM `tp_category` WHERE ( id=40 ) LIMIT 1   [ RunTime:0.0000s ]
+SQL: SELECT `name` FROM `tp_category` WHERE ( id=54 ) LIMIT 1   [ RunTime:0.0000s ]
+SQL: SELECT `name` FROM `tp_category` WHERE ( id=25 ) LIMIT 1   [ RunTime:0.0000s ]
+SQL: SELECT `name` FROM `tp_category` WHERE ( id=25 ) LIMIT 1   [ RunTime:0.0000s ]
+SQL: SELECT `name` FROM `tp_category` WHERE ( id=25 ) LIMIT 1   [ RunTime:0.0000s ]
+SQL: SELECT `name` FROM `tp_category` WHERE ( id=25 ) LIMIT 1   [ RunTime:0.0000s ]
+SQL: SELECT `name` FROM `tp_category` WHERE ( id=25 ) LIMIT 1   [ RunTime:0.0000s ]
+SQL: SELECT `name` FROM `tp_category` WHERE ( id=50 ) LIMIT 1   [ RunTime:0.0000s ]
+SQL: SELECT `name` FROM `tp_category` WHERE ( id=52 ) LIMIT 1   [ RunTime:0.0000s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000055s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000072s ]
+NOTIC: [8] Undefined index: is_sale /home/wwwroot/test.xihuanmall.com/Application/Runtime/Cache/Admin/34e4b095905075aaede5ee9039415509.php 第 70 行.
+NOTIC: [8] Undefined index: is_sale /home/wwwroot/test.xihuanmall.com/Application/Runtime/Cache/Admin/34e4b095905075aaede5ee9039415509.php 第 70 行.
+NOTIC: [8] Undefined index: is_sale /home/wwwroot/test.xihuanmall.com/Application/Runtime/Cache/Admin/34e4b095905075aaede5ee9039415509.php 第 70 行.
+NOTIC: [8] Undefined index: is_sale /home/wwwroot/test.xihuanmall.com/Application/Runtime/Cache/Admin/34e4b095905075aaede5ee9039415509.php 第 70 行.
+NOTIC: [8] Undefined index: is_sale /home/wwwroot/test.xihuanmall.com/Application/Runtime/Cache/Admin/34e4b095905075aaede5ee9039415509.php 第 70 行.
+NOTIC: [8] Undefined index: is_sale /home/wwwroot/test.xihuanmall.com/Application/Runtime/Cache/Admin/34e4b095905075aaede5ee9039415509.php 第 70 行.
+NOTIC: [8] Undefined index: is_sale /home/wwwroot/test.xihuanmall.com/Application/Runtime/Cache/Admin/34e4b095905075aaede5ee9039415509.php 第 70 行.
+NOTIC: [8] Undefined index: is_sale /home/wwwroot/test.xihuanmall.com/Application/Runtime/Cache/Admin/34e4b095905075aaede5ee9039415509.php 第 70 行.
+NOTIC: [8] Undefined index: is_sale /home/wwwroot/test.xihuanmall.com/Application/Runtime/Cache/Admin/34e4b095905075aaede5ee9039415509.php 第 70 行.
+NOTIC: [8] Undefined index: is_sale /home/wwwroot/test.xihuanmall.com/Application/Runtime/Cache/Admin/34e4b095905075aaede5ee9039415509.php 第 70 行.
+NOTIC: [8] Undefined index: is_sale /home/wwwroot/test.xihuanmall.com/Application/Runtime/Cache/Admin/34e4b095905075aaede5ee9039415509.php 第 70 行.
+NOTIC: [8] Undefined index: is_sale /home/wwwroot/test.xihuanmall.com/Application/Runtime/Cache/Admin/34e4b095905075aaede5ee9039415509.php 第 70 行.
+NOTIC: [8] Undefined index: is_sale /home/wwwroot/test.xihuanmall.com/Application/Runtime/Cache/Admin/34e4b095905075aaede5ee9039415509.php 第 70 行.
+NOTIC: [8] Undefined index: is_sale /home/wwwroot/test.xihuanmall.com/Application/Runtime/Cache/Admin/34e4b095905075aaede5ee9039415509.php 第 70 行.
+NOTIC: [8] Undefined index: is_sale /home/wwwroot/test.xihuanmall.com/Application/Runtime/Cache/Admin/34e4b095905075aaede5ee9039415509.php 第 70 行.
+NOTIC: [8] Undefined index: is_sale /home/wwwroot/test.xihuanmall.com/Application/Runtime/Cache/Admin/34e4b095905075aaede5ee9039415509.php 第 70 行.
+NOTIC: [8] Undefined index: is_sale /home/wwwroot/test.xihuanmall.com/Application/Runtime/Cache/Admin/34e4b095905075aaede5ee9039415509.php 第 70 行.
+NOTIC: [8] Undefined index: is_sale /home/wwwroot/test.xihuanmall.com/Application/Runtime/Cache/Admin/34e4b095905075aaede5ee9039415509.php 第 70 行.
+NOTIC: [8] Undefined index: is_sale /home/wwwroot/test.xihuanmall.com/Application/Runtime/Cache/Admin/34e4b095905075aaede5ee9039415509.php 第 70 行.
+NOTIC: [8] Undefined index: is_sale /home/wwwroot/test.xihuanmall.com/Application/Runtime/Cache/Admin/34e4b095905075aaede5ee9039415509.php 第 70 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.004439s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.004455s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000113s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000126s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000311s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000328s ]
+
+[ 2018-07-16T17:27:58+08:00 ] 114.252.0.228 /admin.php/Voucher/index.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000006s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000030s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000291s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000312s ]
+NOTIC: [2] session_name(): Cannot change session name when session is active /home/wwwroot/test.xihuanmall.com/ThinkPHP/Common/functions.php 第 1238 行.
+NOTIC: [2] ini_set(): A session is active. You cannot change the session module's ini settings at this time /home/wwwroot/test.xihuanmall.com/ThinkPHP/Common/functions.php 第 1242 行.
+NOTIC: [2] ini_set(): A session is active. You cannot change the session module's ini settings at this time /home/wwwroot/test.xihuanmall.com/ThinkPHP/Common/functions.php 第 1243 行.
+NOTIC: [8] session_start(): A session had already been started - ignoring /home/wwwroot/test.xihuanmall.com/ThinkPHP/Common/functions.php 第 1263 行.
+SQL: SHOW COLUMNS FROM `tp_menu` [ RunTime:0.0005s ]
+SQL: SELECT * FROM `tp_menu` ORDER BY step asc  [ RunTime:0.0001s ]
+NOTIC: [8] Undefined index: keyword /home/wwwroot/test.xihuanmall.com/Application/Admin/Controller/VoucherController.class.php 第 10 行.
+SQL: SHOW COLUMNS FROM `tp_voucher` [ RunTime:0.0004s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `tp_voucher` WHERE ( 1=1 AND del=0 ) LIMIT 1   [ RunTime:0.0000s ]
+NOTIC: [8] Undefined index: page /home/wwwroot/test.xihuanmall.com/Application/Admin/Controller/VoucherController.class.php 第 28 行.
+SQL: SELECT * FROM `tp_voucher` WHERE ( 1=1 AND del=0 ) ORDER BY id desc LIMIT 0,20   [ RunTime:0.0000s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000043s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000061s ]
+NOTIC: [8] Undefined variable: page /home/wwwroot/test.xihuanmall.com/Application/Runtime/Cache/Admin/9ff596feaf14ae90515a9e4bdc439748.php 第 66 行.
+NOTIC: [8] Undefined variable: page /home/wwwroot/test.xihuanmall.com/Application/Runtime/Cache/Admin/9ff596feaf14ae90515a9e4bdc439748.php 第 66 行.
+NOTIC: [8] Undefined variable: page /home/wwwroot/test.xihuanmall.com/Application/Runtime/Cache/Admin/9ff596feaf14ae90515a9e4bdc439748.php 第 66 行.
+NOTIC: [8] Undefined variable: page /home/wwwroot/test.xihuanmall.com/Application/Runtime/Cache/Admin/9ff596feaf14ae90515a9e4bdc439748.php 第 66 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.003552s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.003570s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000135s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000152s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000294s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000309s ]
+
+[ 2018-07-16T17:41:41+08:00 ] 114.252.0.228 /admin.php/Index/qr.htm
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000006s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000028s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000246s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000264s ]
+NOTIC: [2] session_name(): Cannot change session name when session is active /home/wwwroot/test.xihuanmall.com/ThinkPHP/Common/functions.php 第 1238 行.
+NOTIC: [2] ini_set(): A session is active. You cannot change the session module's ini settings at this time /home/wwwroot/test.xihuanmall.com/ThinkPHP/Common/functions.php 第 1242 行.
+NOTIC: [2] ini_set(): A session is active. You cannot change the session module's ini settings at this time /home/wwwroot/test.xihuanmall.com/ThinkPHP/Common/functions.php 第 1243 行.
+NOTIC: [8] session_start(): A session had already been started - ignoring /home/wwwroot/test.xihuanmall.com/ThinkPHP/Common/functions.php 第 1263 行.
+SQL: SHOW COLUMNS FROM `tp_menu` [ RunTime:0.0005s ]
+SQL: SELECT * FROM `tp_menu` ORDER BY step asc  [ RunTime:0.0001s ]
+ERR: 非法操作:qr.htm
+
+[ 2018-07-16T17:41:44+08:00 ] 114.252.0.228 /admin.php/Index/qr.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000005s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000024s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000258s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000279s ]
+NOTIC: [2] session_name(): Cannot change session name when session is active /home/wwwroot/test.xihuanmall.com/ThinkPHP/Common/functions.php 第 1238 行.
+NOTIC: [2] ini_set(): A session is active. You cannot change the session module's ini settings at this time /home/wwwroot/test.xihuanmall.com/ThinkPHP/Common/functions.php 第 1242 行.
+NOTIC: [2] ini_set(): A session is active. You cannot change the session module's ini settings at this time /home/wwwroot/test.xihuanmall.com/ThinkPHP/Common/functions.php 第 1243 行.
+NOTIC: [8] session_start(): A session had already been started - ignoring /home/wwwroot/test.xihuanmall.com/ThinkPHP/Common/functions.php 第 1263 行.
+SQL: SHOW COLUMNS FROM `tp_menu` [ RunTime:0.0005s ]
+SQL: SELECT * FROM `tp_menu` ORDER BY step asc  [ RunTime:0.0001s ]
+ERR: Think\Controller:curl方法不存在！
+
+[ 2018-07-16T17:42:22+08:00 ] 114.252.0.228 /admin.php/Index/qr.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000007s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000034s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000279s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000297s ]
+NOTIC: [2] session_name(): Cannot change session name when session is active /home/wwwroot/test.xihuanmall.com/ThinkPHP/Common/functions.php 第 1238 行.
+NOTIC: [2] ini_set(): A session is active. You cannot change the session module's ini settings at this time /home/wwwroot/test.xihuanmall.com/ThinkPHP/Common/functions.php 第 1242 行.
+NOTIC: [2] ini_set(): A session is active. You cannot change the session module's ini settings at this time /home/wwwroot/test.xihuanmall.com/ThinkPHP/Common/functions.php 第 1243 行.
+NOTIC: [8] session_start(): A session had already been started - ignoring /home/wwwroot/test.xihuanmall.com/ThinkPHP/Common/functions.php 第 1263 行.
+SQL: SHOW COLUMNS FROM `tp_menu` [ RunTime:0.0005s ]
+SQL: SELECT * FROM `tp_menu` ORDER BY step asc  [ RunTime:0.0001s ]
+NOTIC: [8] Undefined variable: s_user_info /home/wwwroot/test.xihuanmall.com/Application/Admin/Controller/IndexController.class.php 第 115 行.
+NOTIC: [2] file_put_contents(/home/wwwroot/test.xihuanmall.com/qr/.png): failed to open stream: No such file or directory /home/wwwroot/test.xihuanmall.com/Application/Admin/Controller/IndexController.class.php 第 117 行.
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000498s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000537s ]
+
+[ 2018-07-16T17:43:20+08:00 ] 114.252.0.228 /admin.php/Index/qr.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000006s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000027s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000271s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000289s ]
+NOTIC: [2] session_name(): Cannot change session name when session is active /home/wwwroot/test.xihuanmall.com/ThinkPHP/Common/functions.php 第 1238 行.
+NOTIC: [2] ini_set(): A session is active. You cannot change the session module's ini settings at this time /home/wwwroot/test.xihuanmall.com/ThinkPHP/Common/functions.php 第 1242 行.
+NOTIC: [2] ini_set(): A session is active. You cannot change the session module's ini settings at this time /home/wwwroot/test.xihuanmall.com/ThinkPHP/Common/functions.php 第 1243 行.
+NOTIC: [8] session_start(): A session had already been started - ignoring /home/wwwroot/test.xihuanmall.com/ThinkPHP/Common/functions.php 第 1263 行.
+SQL: SHOW COLUMNS FROM `tp_menu` [ RunTime:0.0288s ]
+SQL: SELECT * FROM `tp_menu` ORDER BY step asc  [ RunTime:0.0001s ]
+NOTIC: [2] file_put_contents(/home/wwwroot/test.xihuanmall.com/qr/f.png): failed to open stream: No such file or directory /home/wwwroot/test.xihuanmall.com/Application/Admin/Controller/IndexController.class.php 第 117 行.
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000576s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000607s ]
+
+[ 2018-07-16T17:44:00+08:00 ] 114.252.0.228 /admin.php/Index/qr.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000007s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000030s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000279s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000299s ]
+NOTIC: [2] session_name(): Cannot change session name when session is active /home/wwwroot/test.xihuanmall.com/ThinkPHP/Common/functions.php 第 1238 行.
+NOTIC: [2] ini_set(): A session is active. You cannot change the session module's ini settings at this time /home/wwwroot/test.xihuanmall.com/ThinkPHP/Common/functions.php 第 1242 行.
+NOTIC: [2] ini_set(): A session is active. You cannot change the session module's ini settings at this time /home/wwwroot/test.xihuanmall.com/ThinkPHP/Common/functions.php 第 1243 行.
+NOTIC: [8] session_start(): A session had already been started - ignoring /home/wwwroot/test.xihuanmall.com/ThinkPHP/Common/functions.php 第 1263 行.
+SQL: SHOW COLUMNS FROM `tp_menu` [ RunTime:0.0006s ]
+SQL: SELECT * FROM `tp_menu` ORDER BY step asc  [ RunTime:0.0001s ]
+NOTIC: [2] file_put_contents(/home/wwwroot/test.xihuanmall.com/qr/f.png): failed to open stream: No such file or directory /home/wwwroot/test.xihuanmall.com/Application/Admin/Controller/IndexController.class.php 第 118 行.
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000584s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000630s ]
+
+[ 2018-07-16T17:45:01+08:00 ] 114.252.0.228 /admin.php/Index/qr.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000007s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000030s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000257s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000277s ]
+NOTIC: [2] session_name(): Cannot change session name when session is active /home/wwwroot/test.xihuanmall.com/ThinkPHP/Common/functions.php 第 1238 行.
+NOTIC: [2] ini_set(): A session is active. You cannot change the session module's ini settings at this time /home/wwwroot/test.xihuanmall.com/ThinkPHP/Common/functions.php 第 1242 行.
+NOTIC: [2] ini_set(): A session is active. You cannot change the session module's ini settings at this time /home/wwwroot/test.xihuanmall.com/ThinkPHP/Common/functions.php 第 1243 行.
+NOTIC: [8] session_start(): A session had already been started - ignoring /home/wwwroot/test.xihuanmall.com/ThinkPHP/Common/functions.php 第 1263 行.
+SQL: SHOW COLUMNS FROM `tp_menu` [ RunTime:0.0007s ]
+SQL: SELECT * FROM `tp_menu` ORDER BY step asc  [ RunTime:0.0001s ]
+NOTIC: [2] file_put_contents(/home/wwwroot/test.xihuanmall.com/qr/f.png): failed to open stream: No such file or directory /home/wwwroot/test.xihuanmall.com/Application/Admin/Controller/IndexController.class.php 第 118 行.
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000505s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000536s ]
+
+[ 2018-07-16T17:45:13+08:00 ] 114.252.0.228 /admin.php/Index/qr.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000007s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000030s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000279s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000298s ]
+NOTIC: [2] session_name(): Cannot change session name when session is active /home/wwwroot/test.xihuanmall.com/ThinkPHP/Common/functions.php 第 1238 行.
+NOTIC: [2] ini_set(): A session is active. You cannot change the session module's ini settings at this time /home/wwwroot/test.xihuanmall.com/ThinkPHP/Common/functions.php 第 1242 行.
+NOTIC: [2] ini_set(): A session is active. You cannot change the session module's ini settings at this time /home/wwwroot/test.xihuanmall.com/ThinkPHP/Common/functions.php 第 1243 行.
+NOTIC: [8] session_start(): A session had already been started - ignoring /home/wwwroot/test.xihuanmall.com/ThinkPHP/Common/functions.php 第 1263 行.
+SQL: SHOW COLUMNS FROM `tp_menu` [ RunTime:0.0006s ]
+SQL: SELECT * FROM `tp_menu` ORDER BY step asc  [ RunTime:0.0001s ]
+NOTIC: [2] file_put_contents(/home/wwwroot/test.xihuanmall.com/qr/f.png): failed to open stream: No such file or directory /home/wwwroot/test.xihuanmall.com/Application/Admin/Controller/IndexController.class.php 第 117 行.
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000498s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000528s ]
+
+[ 2018-07-16T17:45:13+08:00 ] 114.252.0.228 /admin.php/Index/%EF%BF%BD%EF%BF%BD%EF%BF%BD%EF%BF%BD%EF%BF%BD%10JFIF%EF%BF%BD%01%01%EF%BF%BD%EF%BF%BD%01%EF%BF%BD%01%EF%BF%BD%EF%BF%BD%EF%BF%BD%EF%BF%BD%EF%BF%BDC%EF%BF%BD%03%02%02%03%02%02%03%03%03%03%04%03%03%04%05%08%05%05%04%04%05%07%07%06%08%0C%0C%0C%0B%0B%0B%0E%12%10%0E%11%0E%0B%0B%10%16%10%11%13%14%15%15%15%0C%0F%17%18%16%14%18%12%14%15%14%EF%BF%BD%EF%BF%BD%EF%BF%BDC%01%03%04%04%05%04%05%05%05%14%0B%14%14%14%14%14%14%14%14%14%14%14%14%14%14%14%14%14%14%14%14%14%14%14%14%14%14%14%14%14%14%14%14%14%14%14%14%14%14%14%14%14%14%14%14%14%14%14%14%14%14%EF%BF%BD%EF%BF%BD%EF%BF%BD%11%08%03
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000006s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000031s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000299s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000317s ]
+NOTIC: [2] session_name(): Cannot change session name when session is active /home/wwwroot/test.xihuanmall.com/ThinkPHP/Common/functions.php 第 1238 行.
+NOTIC: [2] ini_set(): A session is active. You cannot change the session module's ini settings at this time /home/wwwroot/test.xihuanmall.com/ThinkPHP/Common/functions.php 第 1242 行.
+NOTIC: [2] ini_set(): A session is active. You cannot change the session module's ini settings at this time /home/wwwroot/test.xihuanmall.com/ThinkPHP/Common/functions.php 第 1243 行.
+NOTIC: [8] session_start(): A session had already been started - ignoring /home/wwwroot/test.xihuanmall.com/ThinkPHP/Common/functions.php 第 1263 行.
+SQL: SHOW COLUMNS FROM `tp_menu` [ RunTime:0.0006s ]
+SQL: SELECT * FROM `tp_menu` ORDER BY step asc  [ RunTime:0.0001s ]
+ERR: 非法操作:�����JFIF���������C����C���
+
+[ 2018-07-16T17:45:18+08:00 ] 114.252.0.228 /admin.php/Index/qr.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000008s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000036s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000385s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000408s ]
+NOTIC: [2] session_name(): Cannot change session name when session is active /home/wwwroot/test.xihuanmall.com/ThinkPHP/Common/functions.php 第 1238 行.
+NOTIC: [2] ini_set(): A session is active. You cannot change the session module's ini settings at this time /home/wwwroot/test.xihuanmall.com/ThinkPHP/Common/functions.php 第 1242 行.
+NOTIC: [2] ini_set(): A session is active. You cannot change the session module's ini settings at this time /home/wwwroot/test.xihuanmall.com/ThinkPHP/Common/functions.php 第 1243 行.
+NOTIC: [8] session_start(): A session had already been started - ignoring /home/wwwroot/test.xihuanmall.com/ThinkPHP/Common/functions.php 第 1263 行.
+SQL: SHOW COLUMNS FROM `tp_menu` [ RunTime:0.0005s ]
+SQL: SELECT * FROM `tp_menu` ORDER BY step asc  [ RunTime:0.0001s ]
+NOTIC: [2] file_put_contents(/home/wwwroot/test.xihuanmall.com/qr/f.png): failed to open stream: No such file or directory /home/wwwroot/test.xihuanmall.com/Application/Admin/Controller/IndexController.class.php 第 117 行.
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000533s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000569s ]
+
+[ 2018-07-16T17:45:18+08:00 ] 114.252.0.228 /admin.php/Index/%EF%BF%BD%EF%BF%BD%EF%BF%BD%EF%BF%BD%EF%BF%BD%10JFIF%EF%BF%BD%01%01%EF%BF%BD%EF%BF%BD%01%EF%BF%BD%01%EF%BF%BD%EF%BF%BD%EF%BF%BD%EF%BF%BD%EF%BF%BDC%EF%BF%BD%03%02%02%03%02%02%03%03%03%03%04%03%03%04%05%08%05%05%04%04%05%07%07%06%08%0C%0C%0C%0B%0B%0B%0E%12%10%0E%11%0E%0B%0B%10%16%10%11%13%14%15%15%15%0C%0F%17%18%16%14%18%12%14%15%14%EF%BF%BD%EF%BF%BD%EF%BF%BDC%01%03%04%04%05%04%05%05%05%14%0B%14%14%14%14%14%14%14%14%14%14%14%14%14%14%14%14%14%14%14%14%14%14%14%14%14%14%14%14%14%14%14%14%14%14%14%14%14%14%14%14%14%14%14%14%14%14%14%14%14%14%EF%BF%BD%EF%BF%BD%EF%BF%BD%11%08%03
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000006s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000028s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000265s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000283s ]
+NOTIC: [2] session_name(): Cannot change session name when session is active /home/wwwroot/test.xihuanmall.com/ThinkPHP/Common/functions.php 第 1238 行.
+NOTIC: [2] ini_set(): A session is active. You cannot change the session module's ini settings at this time /home/wwwroot/test.xihuanmall.com/ThinkPHP/Common/functions.php 第 1242 行.
+NOTIC: [2] ini_set(): A session is active. You cannot change the session module's ini settings at this time /home/wwwroot/test.xihuanmall.com/ThinkPHP/Common/functions.php 第 1243 行.
+NOTIC: [8] session_start(): A session had already been started - ignoring /home/wwwroot/test.xihuanmall.com/ThinkPHP/Common/functions.php 第 1263 行.
+SQL: SHOW COLUMNS FROM `tp_menu` [ RunTime:0.0006s ]
+SQL: SELECT * FROM `tp_menu` ORDER BY step asc  [ RunTime:0.0001s ]
+ERR: 非法操作:�����JFIF���������C����C���
+
+[ 2018-07-16T17:45:24+08:00 ] 114.252.0.228 /admin.php/Index/qr.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000006s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000030s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000280s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000300s ]
+NOTIC: [2] session_name(): Cannot change session name when session is active /home/wwwroot/test.xihuanmall.com/ThinkPHP/Common/functions.php 第 1238 行.
+NOTIC: [2] ini_set(): A session is active. You cannot change the session module's ini settings at this time /home/wwwroot/test.xihuanmall.com/ThinkPHP/Common/functions.php 第 1242 行.
+NOTIC: [2] ini_set(): A session is active. You cannot change the session module's ini settings at this time /home/wwwroot/test.xihuanmall.com/ThinkPHP/Common/functions.php 第 1243 行.
+NOTIC: [8] session_start(): A session had already been started - ignoring /home/wwwroot/test.xihuanmall.com/ThinkPHP/Common/functions.php 第 1263 行.
+SQL: SHOW COLUMNS FROM `tp_menu` [ RunTime:0.0006s ]
+SQL: SELECT * FROM `tp_menu` ORDER BY step asc  [ RunTime:0.0001s ]
+NOTIC: [2] file_put_contents(/home/wwwroot/test.xihuanmall.com/qr/f.png): failed to open stream: No such file or directory /home/wwwroot/test.xihuanmall.com/Application/Admin/Controller/IndexController.class.php 第 117 行.
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000625s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000660s ]
+
+[ 2018-07-16T17:45:24+08:00 ] 114.252.0.228 /admin.php/Index/%EF%BF%BD%EF%BF%BD%EF%BF%BD%EF%BF%BD%EF%BF%BD%10JFIF%EF%BF%BD%01%01%EF%BF%BD%EF%BF%BD%01%EF%BF%BD%01%EF%BF%BD%EF%BF%BD%EF%BF%BD%EF%BF%BD%EF%BF%BDC%EF%BF%BD%03%02%02%03%02%02%03%03%03%03%04%03%03%04%05%08%05%05%04%04%05%07%07%06%08%0C%0C%0C%0B%0B%0B%0E%12%10%0E%11%0E%0B%0B%10%16%10%11%13%14%15%15%15%0C%0F%17%18%16%14%18%12%14%15%14%EF%BF%BD%EF%BF%BD%EF%BF%BDC%01%03%04%04%05%04%05%05%05%14%0B%14%14%14%14%14%14%14%14%14%14%14%14%14%14%14%14%14%14%14%14%14%14%14%14%14%14%14%14%14%14%14%14%14%14%14%14%14%14%14%14%14%14%14%14%14%14%14%14%14%14%EF%BF%BD%EF%BF%BD%EF%BF%BD%11%08%03
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000007s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000028s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000266s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000285s ]
+NOTIC: [2] session_name(): Cannot change session name when session is active /home/wwwroot/test.xihuanmall.com/ThinkPHP/Common/functions.php 第 1238 行.
+NOTIC: [2] ini_set(): A session is active. You cannot change the session module's ini settings at this time /home/wwwroot/test.xihuanmall.com/ThinkPHP/Common/functions.php 第 1242 行.
+NOTIC: [2] ini_set(): A session is active. You cannot change the session module's ini settings at this time /home/wwwroot/test.xihuanmall.com/ThinkPHP/Common/functions.php 第 1243 行.
+NOTIC: [8] session_start(): A session had already been started - ignoring /home/wwwroot/test.xihuanmall.com/ThinkPHP/Common/functions.php 第 1263 行.
+SQL: SHOW COLUMNS FROM `tp_menu` [ RunTime:0.0007s ]
+SQL: SELECT * FROM `tp_menu` ORDER BY step asc  [ RunTime:0.0001s ]
+ERR: 非法操作:�����JFIF���������C����C���
+
+[ 2018-07-16T17:45:56+08:00 ] 114.252.0.228 /admin.php/Index/qr.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000006s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000029s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000252s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000270s ]
+NOTIC: [2] session_name(): Cannot change session name when session is active /home/wwwroot/test.xihuanmall.com/ThinkPHP/Common/functions.php 第 1238 行.
+NOTIC: [2] ini_set(): A session is active. You cannot change the session module's ini settings at this time /home/wwwroot/test.xihuanmall.com/ThinkPHP/Common/functions.php 第 1242 行.
+NOTIC: [2] ini_set(): A session is active. You cannot change the session module's ini settings at this time /home/wwwroot/test.xihuanmall.com/ThinkPHP/Common/functions.php 第 1243 行.
+NOTIC: [8] session_start(): A session had already been started - ignoring /home/wwwroot/test.xihuanmall.com/ThinkPHP/Common/functions.php 第 1263 行.
+SQL: SHOW COLUMNS FROM `tp_menu` [ RunTime:0.0005s ]
+SQL: SELECT * FROM `tp_menu` ORDER BY step asc  [ RunTime:0.0001s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000499s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000537s ]
+
+[ 2018-07-16T17:45:57+08:00 ] 114.252.0.228 /admin.php/Index/%EF%BF%BD%EF%BF%BD%EF%BF%BD%EF%BF%BD%EF%BF%BD%10JFIF%EF%BF%BD%01%01%EF%BF%BD%EF%BF%BD%01%EF%BF%BD%01%EF%BF%BD%EF%BF%BD%EF%BF%BD%EF%BF%BD%EF%BF%BDC%EF%BF%BD%03%02%02%03%02%02%03%03%03%03%04%03%03%04%05%08%05%05%04%04%05%07%07%06%08%0C%0C%0C%0B%0B%0B%0E%12%10%0E%11%0E%0B%0B%10%16%10%11%13%14%15%15%15%0C%0F%17%18%16%14%18%12%14%15%14%EF%BF%BD%EF%BF%BD%EF%BF%BDC%01%03%04%04%05%04%05%05%05%14%0B%14%14%14%14%14%14%14%14%14%14%14%14%14%14%14%14%14%14%14%14%14%14%14%14%14%14%14%14%14%14%14%14%14%14%14%14%14%14%14%14%14%14%14%14%14%14%14%14%14%14%EF%BF%BD%EF%BF%BD%EF%BF%BD%11%08%03
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000006s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000031s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000259s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000286s ]
+NOTIC: [2] session_name(): Cannot change session name when session is active /home/wwwroot/test.xihuanmall.com/ThinkPHP/Common/functions.php 第 1238 行.
+NOTIC: [2] ini_set(): A session is active. You cannot change the session module's ini settings at this time /home/wwwroot/test.xihuanmall.com/ThinkPHP/Common/functions.php 第 1242 行.
+NOTIC: [2] ini_set(): A session is active. You cannot change the session module's ini settings at this time /home/wwwroot/test.xihuanmall.com/ThinkPHP/Common/functions.php 第 1243 行.
+NOTIC: [8] session_start(): A session had already been started - ignoring /home/wwwroot/test.xihuanmall.com/ThinkPHP/Common/functions.php 第 1263 行.
+SQL: SHOW COLUMNS FROM `tp_menu` [ RunTime:0.0005s ]
+SQL: SELECT * FROM `tp_menu` ORDER BY step asc  [ RunTime:0.0001s ]
+ERR: 非法操作:�����JFIF���������C����C���
+
+[ 2018-07-16T19:51:31+08:00 ] 114.252.0.228 /admin.php
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000006s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000025s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000265s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000286s ]
+NOTIC: [2] session_name(): Cannot change session name when session is active /home/wwwroot/test.xihuanmall.com/ThinkPHP/Common/functions.php 第 1238 行.
+NOTIC: [2] ini_set(): A session is active. You cannot change the session module's ini settings at this time /home/wwwroot/test.xihuanmall.com/ThinkPHP/Common/functions.php 第 1242 行.
+NOTIC: [2] ini_set(): A session is active. You cannot change the session module's ini settings at this time /home/wwwroot/test.xihuanmall.com/ThinkPHP/Common/functions.php 第 1243 行.
+NOTIC: [8] session_start(): A session had already been started - ignoring /home/wwwroot/test.xihuanmall.com/ThinkPHP/Common/functions.php 第 1263 行.
+SQL: SHOW COLUMNS FROM `tp_menu` [ RunTime:0.0005s ]
+SQL: SELECT * FROM `tp_menu` ORDER BY step asc  [ RunTime:0.0001s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000046s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000067s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.003701s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.003719s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000119s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000132s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000304s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000320s ]
+
+[ 2018-07-16T19:51:32+08:00 ] 114.252.0.228 /admin.php/Index/welcome.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000007s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000032s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000251s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000270s ]
+NOTIC: [2] session_name(): Cannot change session name when session is active /home/wwwroot/test.xihuanmall.com/ThinkPHP/Common/functions.php 第 1238 行.
+NOTIC: [2] ini_set(): A session is active. You cannot change the session module's ini settings at this time /home/wwwroot/test.xihuanmall.com/ThinkPHP/Common/functions.php 第 1242 行.
+NOTIC: [2] ini_set(): A session is active. You cannot change the session module's ini settings at this time /home/wwwroot/test.xihuanmall.com/ThinkPHP/Common/functions.php 第 1243 行.
+NOTIC: [8] session_start(): A session had already been started - ignoring /home/wwwroot/test.xihuanmall.com/ThinkPHP/Common/functions.php 第 1263 行.
+SQL: SHOW COLUMNS FROM `tp_menu` [ RunTime:0.0005s ]
+SQL: SELECT * FROM `tp_menu` ORDER BY step asc  [ RunTime:0.0001s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000316s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000334s ]
+
+[ 2018-07-16T19:51:34+08:00 ] 114.252.0.228 /admin.php/Order/index.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000006s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000026s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000255s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000275s ]
+NOTIC: [2] Declaration of Admin\Controller\OrderController::show() should be compatible with Think\Controller::show($content, $charset = '', $contentType = '', $prefix = '') /home/wwwroot/test.xihuanmall.com/Application/Admin/Controller/OrderController.class.php 第 4 行.
+SQL: SHOW COLUMNS FROM `tp_order` [ RunTime:0.0006s ]
+SQL: SHOW COLUMNS FROM `tp_order_product` [ RunTime:0.0003s ]
+NOTIC: [2] session_name(): Cannot change session name when session is active /home/wwwroot/test.xihuanmall.com/ThinkPHP/Common/functions.php 第 1238 行.
+NOTIC: [2] ini_set(): A session is active. You cannot change the session module's ini settings at this time /home/wwwroot/test.xihuanmall.com/ThinkPHP/Common/functions.php 第 1242 行.
+NOTIC: [2] ini_set(): A session is active. You cannot change the session module's ini settings at this time /home/wwwroot/test.xihuanmall.com/ThinkPHP/Common/functions.php 第 1243 行.
+NOTIC: [8] session_start(): A session had already been started - ignoring /home/wwwroot/test.xihuanmall.com/ThinkPHP/Common/functions.php 第 1263 行.
+SQL: SHOW COLUMNS FROM `tp_menu` [ RunTime:0.0004s ]
+SQL: SELECT * FROM `tp_menu` ORDER BY step asc  [ RunTime:0.0001s ]
+NOTIC: [8] Undefined index: pay_type /home/wwwroot/test.xihuanmall.com/Application/Admin/Controller/OrderController.class.php 第 25 行.
+NOTIC: [8] Undefined index: pay_status /home/wwwroot/test.xihuanmall.com/Application/Admin/Controller/OrderController.class.php 第 26 行.
+NOTIC: [8] Undefined index: start_time /home/wwwroot/test.xihuanmall.com/Application/Admin/Controller/OrderController.class.php 第 27 行.
+NOTIC: [8] Undefined index: end_time /home/wwwroot/test.xihuanmall.com/Application/Admin/Controller/OrderController.class.php 第 28 行.
+SQL: SELECT COUNT(*) AS tp_count FROM `tp_order` WHERE ( 1=1 AND del=0 ) LIMIT 1   [ RunTime:0.0000s ]
+SQL: SELECT * FROM `tp_order` WHERE ( 1=1 AND del=0 ) ORDER BY id desc LIMIT 0,25   [ RunTime:0.0001s ]
+SQL: SHOW COLUMNS FROM `tp_user` [ RunTime:0.0004s ]
+SQL: SELECT `uname` FROM `tp_user` WHERE ( id=628 ) LIMIT 1   [ RunTime:0.0001s ]
+SQL: SELECT `uname` FROM `tp_user` WHERE ( id=598 ) LIMIT 1   [ RunTime:0.0001s ]
+SQL: SELECT `uname` FROM `tp_user` WHERE ( id=555 ) LIMIT 1   [ RunTime:0.0001s ]
+SQL: SELECT `uname` FROM `tp_user` WHERE ( id=575 ) LIMIT 1   [ RunTime:0.0001s ]
+SQL: SELECT `uname` FROM `tp_user` WHERE ( id=553 ) LIMIT 1   [ RunTime:0.0001s ]
+SQL: SELECT `uname` FROM `tp_user` WHERE ( id=553 ) LIMIT 1   [ RunTime:0.0000s ]
+SQL: SELECT `uname` FROM `tp_user` WHERE ( id=553 ) LIMIT 1   [ RunTime:0.0000s ]
+SQL: SELECT `uname` FROM `tp_user` WHERE ( id=553 ) LIMIT 1   [ RunTime:0.0000s ]
+SQL: SELECT `uname` FROM `tp_user` WHERE ( id=553 ) LIMIT 1   [ RunTime:0.0000s ]
+SQL: SELECT `uname` FROM `tp_user` WHERE ( id=555 ) LIMIT 1   [ RunTime:0.0000s ]
+SQL: SELECT `uname` FROM `tp_user` WHERE ( id=553 ) LIMIT 1   [ RunTime:0.0000s ]
+SQL: SELECT `uname` FROM `tp_user` WHERE ( id=553 ) LIMIT 1   [ RunTime:0.0000s ]
+SQL: SELECT `uname` FROM `tp_user` WHERE ( id=553 ) LIMIT 1   [ RunTime:0.0000s ]
+SQL: SELECT `uname` FROM `tp_user` WHERE ( id=553 ) LIMIT 1   [ RunTime:0.0000s ]
+SQL: SELECT `uname` FROM `tp_user` WHERE ( id=553 ) LIMIT 1   [ RunTime:0.0000s ]
+SQL: SELECT `uname` FROM `tp_user` WHERE ( id=553 ) LIMIT 1   [ RunTime:0.0000s ]
+SQL: SELECT `uname` FROM `tp_user` WHERE ( id=553 ) LIMIT 1   [ RunTime:0.0000s ]
+SQL: SELECT `uname` FROM `tp_user` WHERE ( id=553 ) LIMIT 1   [ RunTime:0.0000s ]
+SQL: SELECT `uname` FROM `tp_user` WHERE ( id=553 ) LIMIT 1   [ RunTime:0.0000s ]
+SQL: SELECT `uname` FROM `tp_user` WHERE ( id=553 ) LIMIT 1   [ RunTime:0.0000s ]
+SQL: SELECT `uname` FROM `tp_user` WHERE ( id=553 ) LIMIT 1   [ RunTime:0.0000s ]
+SQL: SELECT `uname` FROM `tp_user` WHERE ( id=553 ) LIMIT 1   [ RunTime:0.0000s ]
+SQL: SELECT `uname` FROM `tp_user` WHERE ( id=553 ) LIMIT 1   [ RunTime:0.0000s ]
+SQL: SELECT `uname` FROM `tp_user` WHERE ( id=556 ) LIMIT 1   [ RunTime:0.0001s ]
+SQL: SELECT `uname` FROM `tp_user` WHERE ( id=553 ) LIMIT 1   [ RunTime:0.0000s ]
+NOTIC: [8] Undefined index: admininfo /home/wwwroot/test.xihuanmall.com/Application/Admin/Controller/OrderController.class.php 第 119 行.
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000048s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000070s ]
+NOTIC: [8] Undefined variable: pay_type /home/wwwroot/test.xihuanmall.com/Application/Runtime/Cache/Admin/18bc66a7b6334412ab8e61a2539ecfbd.php 第 42 行.
+NOTIC: [8] Undefined variable: pay_type /home/wwwroot/test.xihuanmall.com/Application/Runtime/Cache/Admin/18bc66a7b6334412ab8e61a2539ecfbd.php 第 43 行.
+NOTIC: [8] Undefined variable: pay_status /home/wwwroot/test.xihuanmall.com/Application/Runtime/Cache/Admin/18bc66a7b6334412ab8e61a2539ecfbd.php 第 52 行.
+NOTIC: [8] Undefined variable: pay_status /home/wwwroot/test.xihuanmall.com/Application/Runtime/Cache/Admin/18bc66a7b6334412ab8e61a2539ecfbd.php 第 52 行.
+NOTIC: [8] Undefined variable: pay_status /home/wwwroot/test.xihuanmall.com/Application/Runtime/Cache/Admin/18bc66a7b6334412ab8e61a2539ecfbd.php 第 52 行.
+NOTIC: [8] Undefined variable: pay_status /home/wwwroot/test.xihuanmall.com/Application/Runtime/Cache/Admin/18bc66a7b6334412ab8e61a2539ecfbd.php 第 52 行.
+NOTIC: [8] Undefined variable: pay_status /home/wwwroot/test.xihuanmall.com/Application/Runtime/Cache/Admin/18bc66a7b6334412ab8e61a2539ecfbd.php 第 52 行.
+NOTIC: [8] Undefined variable: pay_status /home/wwwroot/test.xihuanmall.com/Application/Runtime/Cache/Admin/18bc66a7b6334412ab8e61a2539ecfbd.php 第 52 行.
+NOTIC: [8] Undefined variable: pay_status /home/wwwroot/test.xihuanmall.com/Application/Runtime/Cache/Admin/18bc66a7b6334412ab8e61a2539ecfbd.php 第 54 行.
+NOTIC: [8] Undefined variable: pay_status /home/wwwroot/test.xihuanmall.com/Application/Runtime/Cache/Admin/18bc66a7b6334412ab8e61a2539ecfbd.php 第 55 行.
+NOTIC: [8] Undefined variable: start_time /home/wwwroot/test.xihuanmall.com/Application/Runtime/Cache/Admin/18bc66a7b6334412ab8e61a2539ecfbd.php 第 61 行.
+NOTIC: [8] Undefined variable: end_time /home/wwwroot/test.xihuanmall.com/Application/Runtime/Cache/Admin/18bc66a7b6334412ab8e61a2539ecfbd.php 第 62 行.
+NOTIC: [8] Undefined index: name /home/wwwroot/test.xihuanmall.com/Application/Runtime/Cache/Admin/18bc66a7b6334412ab8e61a2539ecfbd.php 第 88 行.
+NOTIC: [8] Undefined index: name /home/wwwroot/test.xihuanmall.com/Application/Runtime/Cache/Admin/18bc66a7b6334412ab8e61a2539ecfbd.php 第 88 行.
+NOTIC: [8] Undefined index: name /home/wwwroot/test.xihuanmall.com/Application/Runtime/Cache/Admin/18bc66a7b6334412ab8e61a2539ecfbd.php 第 88 行.
+NOTIC: [8] Undefined index: name /home/wwwroot/test.xihuanmall.com/Application/Runtime/Cache/Admin/18bc66a7b6334412ab8e61a2539ecfbd.php 第 88 行.
+NOTIC: [8] Undefined index: name /home/wwwroot/test.xihuanmall.com/Application/Runtime/Cache/Admin/18bc66a7b6334412ab8e61a2539ecfbd.php 第 88 行.
+NOTIC: [8] Undefined index: name /home/wwwroot/test.xihuanmall.com/Application/Runtime/Cache/Admin/18bc66a7b6334412ab8e61a2539ecfbd.php 第 88 行.
+NOTIC: [8] Undefined index: name /home/wwwroot/test.xihuanmall.com/Application/Runtime/Cache/Admin/18bc66a7b6334412ab8e61a2539ecfbd.php 第 88 行.
+NOTIC: [8] Undefined index: name /home/wwwroot/test.xihuanmall.com/Application/Runtime/Cache/Admin/18bc66a7b6334412ab8e61a2539ecfbd.php 第 88 行.
+NOTIC: [8] Undefined index: name /home/wwwroot/test.xihuanmall.com/Application/Runtime/Cache/Admin/18bc66a7b6334412ab8e61a2539ecfbd.php 第 88 行.
+NOTIC: [8] Undefined index: name /home/wwwroot/test.xihuanmall.com/Application/Runtime/Cache/Admin/18bc66a7b6334412ab8e61a2539ecfbd.php 第 88 行.
+NOTIC: [8] Undefined index: name /home/wwwroot/test.xihuanmall.com/Application/Runtime/Cache/Admin/18bc66a7b6334412ab8e61a2539ecfbd.php 第 88 行.
+NOTIC: [8] Undefined index: name /home/wwwroot/test.xihuanmall.com/Application/Runtime/Cache/Admin/18bc66a7b6334412ab8e61a2539ecfbd.php 第 88 行.
+NOTIC: [8] Undefined index: name /home/wwwroot/test.xihuanmall.com/Application/Runtime/Cache/Admin/18bc66a7b6334412ab8e61a2539ecfbd.php 第 88 行.
+NOTIC: [8] Undefined index: name /home/wwwroot/test.xihuanmall.com/Application/Runtime/Cache/Admin/18bc66a7b6334412ab8e61a2539ecfbd.php 第 88 行.
+NOTIC: [8] Undefined index: name /home/wwwroot/test.xihuanmall.com/Application/Runtime/Cache/Admin/18bc66a7b6334412ab8e61a2539ecfbd.php 第 88 行.
+NOTIC: [8] Undefined index: name /home/wwwroot/test.xihuanmall.com/Application/Runtime/Cache/Admin/18bc66a7b6334412ab8e61a2539ecfbd.php 第 88 行.
+NOTIC: [8] Undefined index: name /home/wwwroot/test.xihuanmall.com/Application/Runtime/Cache/Admin/18bc66a7b6334412ab8e61a2539ecfbd.php 第 88 行.
+NOTIC: [8] Undefined index: name /home/wwwroot/test.xihuanmall.com/Application/Runtime/Cache/Admin/18bc66a7b6334412ab8e61a2539ecfbd.php 第 88 行.
+NOTIC: [8] Undefined index: name /home/wwwroot/test.xihuanmall.com/Application/Runtime/Cache/Admin/18bc66a7b6334412ab8e61a2539ecfbd.php 第 88 行.
+NOTIC: [8] Undefined index: name /home/wwwroot/test.xihuanmall.com/Application/Runtime/Cache/Admin/18bc66a7b6334412ab8e61a2539ecfbd.php 第 88 行.
+NOTIC: [8] Undefined index: name /home/wwwroot/test.xihuanmall.com/Application/Runtime/Cache/Admin/18bc66a7b6334412ab8e61a2539ecfbd.php 第 88 行.
+NOTIC: [8] Undefined index: name /home/wwwroot/test.xihuanmall.com/Application/Runtime/Cache/Admin/18bc66a7b6334412ab8e61a2539ecfbd.php 第 88 行.
+NOTIC: [8] Undefined index: name /home/wwwroot/test.xihuanmall.com/Application/Runtime/Cache/Admin/18bc66a7b6334412ab8e61a2539ecfbd.php 第 88 行.
+NOTIC: [8] Undefined index: name /home/wwwroot/test.xihuanmall.com/Application/Runtime/Cache/Admin/18bc66a7b6334412ab8e61a2539ecfbd.php 第 88 行.
+NOTIC: [8] Undefined index: name /home/wwwroot/test.xihuanmall.com/Application/Runtime/Cache/Admin/18bc66a7b6334412ab8e61a2539ecfbd.php 第 88 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.004334s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.004349s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000123s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000136s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000304s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000320s ]
+
+[ 2018-07-16T19:51:39+08:00 ] 114.252.0.228 /admin.php/Order/show.html?oid=73
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000006s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000034s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000265s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000284s ]
+NOTIC: [2] Declaration of Admin\Controller\OrderController::show() should be compatible with Think\Controller::show($content, $charset = '', $contentType = '', $prefix = '') /home/wwwroot/test.xihuanmall.com/Application/Admin/Controller/OrderController.class.php 第 4 行.
+SQL: SHOW COLUMNS FROM `tp_order` [ RunTime:0.0006s ]
+SQL: SHOW COLUMNS FROM `tp_order_product` [ RunTime:0.0004s ]
+NOTIC: [2] session_name(): Cannot change session name when session is active /home/wwwroot/test.xihuanmall.com/ThinkPHP/Common/functions.php 第 1238 行.
+NOTIC: [2] ini_set(): A session is active. You cannot change the session module's ini settings at this time /home/wwwroot/test.xihuanmall.com/ThinkPHP/Common/functions.php 第 1242 行.
+NOTIC: [2] ini_set(): A session is active. You cannot change the session module's ini settings at this time /home/wwwroot/test.xihuanmall.com/ThinkPHP/Common/functions.php 第 1243 行.
+NOTIC: [8] session_start(): A session had already been started - ignoring /home/wwwroot/test.xihuanmall.com/ThinkPHP/Common/functions.php 第 1263 行.
+SQL: SHOW COLUMNS FROM `tp_menu` [ RunTime:0.0003s ]
+SQL: SELECT * FROM `tp_menu` ORDER BY step asc  [ RunTime:0.0001s ]
+SQL: SELECT * FROM `tp_order` WHERE ( id=73 ) LIMIT 1   [ RunTime:0.0002s ]
+SQL: SELECT * FROM `tp_order_product` WHERE ( order_id=73 )  [ RunTime:0.0000s ]
+SQL: SHOW COLUMNS FROM `tp_post` [ RunTime:0.0003s ]
+SQL: SELECT `id`,`name` FROM `tp_post` WHERE ( 1=1 )  [ RunTime:0.0000s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000064s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000108s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.004408s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.004425s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000121s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000133s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000342s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000361s ]
+
